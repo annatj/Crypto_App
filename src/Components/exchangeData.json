@@ -1,0 +1,48 @@
+ [
+      {
+        "rank": 1,
+        "icon_url": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/270.png",
+        "name": "Binance",
+        "volume": "$1,234,567,890",
+        "number_of_markets": 1500,
+        "market_share": "25%",
+        "description": "Binance is a leading cryptocurrency exchange known for its high trading volume and extensive range of markets."
+      },
+      {
+        "rank": 2,
+        "icon_url": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/294.png",
+        "name": "OK X",
+        "volume": "$987,654,321",
+        "number_of_markets": 1200,
+        "market_share": "20%",
+        "description": "OK X is a popular crypto exchange that offers a wide variety of cryptocurrencies and trading pairs."
+      },
+      {
+        "rank": 3,
+        "icon_url": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/521.png",
+        "name": "Bybit",
+        "volume": "$654,321,987",
+        "number_of_markets": 900,
+        "market_share": "15%",
+        "description": "Bybit is known for its user-friendly interface and reliable customer support."
+      },
+      {
+        "rank": 4,
+        "icon_url": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/311.png",
+        "name": "KuCoin",
+        "volume": "$543,210,987",
+        "number_of_markets": 800,
+        "market_share": "12%",
+        "description": "KuCoin offers advanced trading features and is favored by experienced traders."
+      },
+      {
+        "rank": 5,
+        "icon_url": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/333.png",
+        "name": "LBank",
+        "volume": "$432,109,876",
+        "number_of_markets": 600,
+        "market_share": "10%",
+        "description": "LBank provides a secure platform and is suitable for both beginners and professional traders."
+      }
+    ]
+  

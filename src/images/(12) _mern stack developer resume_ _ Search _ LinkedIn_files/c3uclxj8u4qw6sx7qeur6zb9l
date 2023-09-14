@@ -1,0 +1,560 @@
+define.alias("@glimmer/component/-private/ember-component-manager","trust-verifications/component-managers/glimmer")
+define("trust-verifications/components/-dynamic-element-alt",["exports","@glimmer/component"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+class i extends t.default{}e.default=i}))
+define("trust-verifications/components/-dynamic-element",["exports","@glimmer/component"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+class i extends t.default{}e.default=i}))
+define.alias("artdeco-button/components/artdeco-button","trust-verifications/components/artdeco-button")
+define.alias("artdeco-datepicker/components/artdeco-calendar","trust-verifications/components/artdeco-calendar")
+define.alias("artdeco-carousel/components/artdeco-carousel-item","trust-verifications/components/artdeco-carousel-item")
+define.alias("artdeco-carousel/components/artdeco-carousel-slider","trust-verifications/components/artdeco-carousel-slider")
+define.alias("artdeco-carousel/components/artdeco-carousel-title","trust-verifications/components/artdeco-carousel-title")
+define.alias("artdeco-carousel/components/artdeco-carousel","trust-verifications/components/artdeco-carousel")
+define.alias("artdeco-completeness-meter-linear/components/artdeco-completeness-meter-linear","trust-verifications/components/artdeco-completeness-meter-linear")
+define.alias("artdeco-modal/components/artdeco-confirmation-dialog","trust-verifications/components/artdeco-confirmation-dialog")
+define.alias("artdeco-datepicker/components/artdeco-datepicker-embedded-cal","trust-verifications/components/artdeco-datepicker-embedded-cal")
+define.alias("artdeco-datepicker/components/artdeco-datepicker","trust-verifications/components/artdeco-datepicker")
+define.alias("artdeco-datepicker/components/artdeco-daterange-embedded-cal","trust-verifications/components/artdeco-daterange-embedded-cal")
+define.alias("artdeco-datepicker/components/artdeco-daterange","trust-verifications/components/artdeco-daterange")
+define.alias("artdeco-dropdown/components/artdeco-dropdown-content","trust-verifications/components/artdeco-dropdown-content")
+define.alias("artdeco-dropdown/components/artdeco-dropdown-header","trust-verifications/components/artdeco-dropdown-header")
+define.alias("artdeco-dropdown/components/artdeco-dropdown-item","trust-verifications/components/artdeco-dropdown-item")
+define.alias("artdeco-dropdown/components/artdeco-dropdown-trigger","trust-verifications/components/artdeco-dropdown-trigger")
+define.alias("artdeco-dropdown/components/artdeco-dropdown","trust-verifications/components/artdeco-dropdown")
+define.alias("artdeco-empty-state/components/artdeco-empty-state","trust-verifications/components/artdeco-empty-state")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-badge","trust-verifications/components/artdeco-entity-lockup-badge")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-caption","trust-verifications/components/artdeco-entity-lockup-caption")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-content","trust-verifications/components/artdeco-entity-lockup-content")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-image","trust-verifications/components/artdeco-entity-lockup-image")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-metadata","trust-verifications/components/artdeco-entity-lockup-metadata")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-subtitle","trust-verifications/components/artdeco-entity-lockup-subtitle")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup-title","trust-verifications/components/artdeco-entity-lockup-title")
+define.alias("artdeco-entity-lockup/components/artdeco-entity-lockup","trust-verifications/components/artdeco-entity-lockup")
+define.alias("artdeco-hoverables/components/artdeco-hoverable-content","trust-verifications/components/artdeco-hoverable-content")
+define.alias("artdeco-hoverables/components/artdeco-hoverable-trigger","trust-verifications/components/artdeco-hoverable-trigger")
+define.alias("artdeco-inline-feedback/components/artdeco-inline-feedback","trust-verifications/components/artdeco-inline-feedback")
+define.alias("artdeco-loader/components/artdeco-loader","trust-verifications/components/artdeco-loader")
+define.alias("artdeco-modal/components/container","trust-verifications/components/artdeco-modal-container")
+define.alias("artdeco-modal/components/artdeco-modal-content","trust-verifications/components/artdeco-modal-content")
+define.alias("artdeco-modal/components/artdeco-modal-footer","trust-verifications/components/artdeco-modal-footer")
+define.alias("artdeco-modal/components/artdeco-modal-header","trust-verifications/components/artdeco-modal-header")
+define.alias("artdeco-modal/components/artdeco-modal","trust-verifications/components/artdeco-modal")
+define.alias("artdeco-notification-badge/components/artdeco-notification-badge","trust-verifications/components/artdeco-notification-badge")
+define.alias("artdeco-pagination/components/artdeco-pagination-ellipsis","trust-verifications/components/artdeco-pagination-ellipsis")
+define.alias("artdeco-pagination/components/artdeco-pagination-indicator","trust-verifications/components/artdeco-pagination-indicator")
+define.alias("artdeco-pagination/components/artdeco-pagination","trust-verifications/components/artdeco-pagination")
+define.alias("artdeco-text-input/components/artdeco-text-input-multi","trust-verifications/components/artdeco-text-input-multi")
+define.alias("artdeco-text-input/components/artdeco-text-input-single","trust-verifications/components/artdeco-text-input-single")
+define.alias("artdeco-text-input/components/artdeco-text-input","trust-verifications/components/artdeco-text-input")
+define.alias("artdeco-toast/components/artdeco-toast-item","trust-verifications/components/artdeco-toast-item")
+define.alias("artdeco-toast/components/artdeco-toasts","trust-verifications/components/artdeco-toasts")
+define.alias("artdeco-toggle/components/artdeco-toggle","trust-verifications/components/artdeco-toggle")
+define.alias("ember-cli-artdeco-typeahead/components/artdeco-typeahead-input","trust-verifications/components/artdeco-typeahead-input")
+define.alias("ember-cli-artdeco-typeahead/components/artdeco-typeahead-result","trust-verifications/components/artdeco-typeahead-result")
+define.alias("ember-cli-artdeco-typeahead/components/artdeco-typeahead-results-list","trust-verifications/components/artdeco-typeahead-results-list")
+define.alias("ember-cli-artdeco-typeahead/components/artdeco-typeahead","trust-verifications/components/artdeco-typeahead")
+define.alias("ember-vector-images/components/custom-image","trust-verifications/components/custom-image")
+define.alias("ember-wormhole/components/ember-wormhole","trust-verifications/components/ember-wormhole")
+define.alias("ember-vector-images/components/lazy-background","trust-verifications/components/lazy-background")
+define.alias("ember-vector-images/components/lazy-image","trust-verifications/components/lazy-image")
+define.alias("artdeco-icons-web/components/linkedin-logo","trust-verifications/components/linkedin-logo")
+define("trust-verifications/config/environment",["exports"],(function(e){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+let t
+try{const e="trust-verifications/config/environment",i=document.querySelector('meta[name="'+e+'"]').getAttribute("content")
+t=JSON.parse(unescape(i))}catch(e){t={}}var i=t
+e.default=i}))
+define("trust-verifications/controllers/identity-result",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/controller","trust/utils/web-view","@ember/object","@ember/service","trust/utils/verifications/constants"],(function(e,t,i,r,a,o,n,s,l,c){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var u,d,f,p,m,h,v
+let _=(u=(0,l.inject)("router"),d=(0,l.inject)("jet"),f=(0,l.inject)("trust-verifications@verification-navigation"),p=class extends o.default{constructor(){var e,r
+super(...arguments);(0,t.default)(this,"router",m,this);(0,t.default)(this,"jet",h,this);(0,t.default)(this,"verificationNavigation",v,this);(0,i.default)(this,"queryParams",["platform","entryPoint","referrer","trkState","state","code","error","error_description","session_state","transactionId"]);(0,i.default)(this,"platform",null===(e=this.router.currentRoute)||void 0===e||null===(r=e.queryParams)||void 0===r?void 0:r.platform)}get verificationStatusTag(){return this.model.value.verificationStatus===c.VERIFICATION_STATUS.SUCCEEDED?"succeed":"error"}restartVerification(){var e,t,i
+const r=null===(e=this.router.currentRoute)||void 0===e||null===(t=e.params)||void 0===t?void 0:t.verificationType
+this.jet.noise(`[DEBUG] CTA_LINK -  restart verification button on identity result page for verificationType: ${r} and platform: ${this.platform} should be clicked`,["tg-funnel-tracking",r,"result","generic-error","other-cta"],{shouldRethrow:!1})
+const{entryPoint:a,referrer:o}=(null===(i=this.router.currentRoute)||void 0===i?void 0:i.queryParams)||{}
+this.router.transitionTo("trust-verifications.identity-start",r,{queryParams:{platform:this.platform,entryPoint:a,referrer:o}})}onPrimaryButtonClick(){[c.VERIFICATION_STATUS.NO_CONSENT,c.VERIFICATION_STATUS.FAILED_AT_VENDOR].includes(this.model.value.verificationStatus)?this.router.transitionTo("trust-verifications.identity-start",this.model.value.verificationType,{queryParams:{platform:this.platform}}):this.model.value.verificationStatus===c.VERIFICATION_STATUS.SUCCEEDED&&this.verificationNavigation.transitionFromVerificationFlow()
+this.jet.noise(`[DEBUG] CTA_LINK - primary button of identity result page for verificationType: ${this.model.value.verificationType}, verificationStatus: ${this.model.value.verificationStatus}, platform: ${this.platform} should be clicked`,["tg-funnel-tracking",this.model.value.verificationType,this.verificationStatusTag,"primary-cta"],{shouldRethrow:!1})}onSecondaryButtonClick(){(0,n.notifyNativeClient)({closeWebView:""})
+this.jet.noise(`[DEBUG] CTA_LINK - secondary button of identity result page for verificationType: ${this.model.value.verificationType}, verificationStatus: ${this.model.value.verificationStatus}, platform: ${this.platform} should be clicked`,["tg-funnel-tracking",this.model.value.verificationType,this.verificationStatusTag,"other-cta"],{shouldRethrow:!1})}onTertiaryButtonClick(){(0,n.notifyNativeClient)({closeWebView:""})
+this.jet.noise(`[DEBUG] CTA_LINK - tertiary button of identity result page for verificationType: ${this.model.value.verificationType}, verificationStatus: ${this.model.value.verificationStatus}, platform: ${this.platform} should be clicked`,["tg-funnel-tracking",this.model.value.verificationType,this.verificationStatusTag,"other-cta"],{shouldRethrow:!1})}},m=(0,r.default)(p.prototype,"router",[u],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),h=(0,r.default)(p.prototype,"jet",[d],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),v=(0,r.default)(p.prototype,"verificationNavigation",[f],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),(0,r.default)(p.prototype,"restartVerification",[s.action],Object.getOwnPropertyDescriptor(p.prototype,"restartVerification"),p.prototype),(0,r.default)(p.prototype,"onPrimaryButtonClick",[s.action],Object.getOwnPropertyDescriptor(p.prototype,"onPrimaryButtonClick"),p.prototype),(0,r.default)(p.prototype,"onSecondaryButtonClick",[s.action],Object.getOwnPropertyDescriptor(p.prototype,"onSecondaryButtonClick"),p.prototype),(0,r.default)(p.prototype,"onTertiaryButtonClick",[s.action],Object.getOwnPropertyDescriptor(p.prototype,"onTertiaryButtonClick"),p.prototype),p)
+e.default=_}))
+define("trust-verifications/controllers/identity-start",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/classPrivateMethodGet","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/controller","@ember/object","ember-cli-pemberly-tracking/utils/tracking","@ember/service","trust/utils/web-view","@glimmer/tracking","trust/utils/verifications/constants","trust/utils/constants","global-utils/utils/is-browser","@ember/string"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p,m,h){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var v,_,b,y,T,g,I,E,S
+let A=(v=(0,c.inject)("trust@trust-session-storage"),_=(0,c.inject)("jet"),b=(0,c.inject)("router"),y=(S=new WeakSet,class extends n.default{constructor(){var e,r
+super(...arguments)
+S.add(this);(0,t.default)(this,"sessionStorage",T,this);(0,t.default)(this,"jet",g,this);(0,t.default)(this,"router",I,this);(0,t.default)(this,"shouldShowShimmer",E,this);(0,i.default)(this,"queryParams",["platform","entryPoint","referrer","vanityName","trkState"]);(0,i.default)(this,"platform",null===(e=this.router.currentRoute)||void 0===e||null===(r=e.queryParams)||void 0===r?void 0:r.platform)}get verificationTypeTag(){return(0,h.dasherize)(this.model.value.verificationType).toLowerCase()}onPrimaryButtonClick(){(0,u.notifyNativeClient)({externalAgentVerificationUrl:(0,r.default)(this,S,R).call(this)})
+this.shouldShowShimmer=!0
+this.jet.noise(`[DEBUG] CTA_LINK - primary button of identity start page for verificationType: ${this.model.value.verificationType}, and platform: ${this.platform} should be clicked`,["tg-funnel-tracking",this.verificationTypeTag,"started","primary-cta"],{shouldRethrow:!1})}onTertiaryButtonClick(){(0,u.notifyNativeClient)({closeWebView:""})
+this.jet.noise(`[DEBUG] CTA_LINK - tertiary button of identity start page for verificationType: ${this.model.value.verificationType}, and platform: ${this.platform} should be clicked`,["tg-funnel-tracking",this.verificationTypeTag,"started","other-cta"],{shouldRethrow:!1})}restartVerification(){var e,t
+this.send("refreshRoute")
+const i=null===(e=this.router.currentRoute)||void 0===e||null===(t=e.params)||void 0===t?void 0:t.verificationType
+this.jet.noise(`[DEBUG] CTA_LINK -  restart verification button on identity start page for verificationType: ${i} and platform: ${this.platform} should be clicked`,["tg-funnel-tracking",i,"started","generic-error","other-cta"],{shouldRethrow:!1})}}),T=(0,a.default)(y.prototype,"sessionStorage",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),g=(0,a.default)(y.prototype,"jet",[_],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),I=(0,a.default)(y.prototype,"router",[b],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),E=(0,a.default)(y.prototype,"shouldShowShimmer",[d.tracked],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return!1}}),(0,a.default)(y.prototype,"onPrimaryButtonClick",[s.action],Object.getOwnPropertyDescriptor(y.prototype,"onPrimaryButtonClick"),y.prototype),(0,a.default)(y.prototype,"onTertiaryButtonClick",[s.action],Object.getOwnPropertyDescriptor(y.prototype,"onTertiaryButtonClick"),y.prototype),(0,a.default)(y.prototype,"restartVerification",[s.action],Object.getOwnPropertyDescriptor(y.prototype,"restartVerification"),y.prototype),y)
+e.default=A
+function R(){const{verificationUrl:e,verificationType:t}=this.model.value
+if(m.default&&t===f.VERIFICATION_TYPE.CLEAR){const t=(0,l.generateBase64UUID)()
+this.sessionStorage.setValue(p.TRUST_SESSION_STORAGE_KEY.CLEAR,t)
+return`${e}&state=${encodeURIComponent(t)}`}return e}}))
+define("trust-verifications/controllers/learning",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/controller","@glimmer/tracking","trust/utils/verifications/constants","@ember/object","@ember/service"],(function(e,t,i,r,a,o,n,s,l,c){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var u,d,f,p
+let m=(u=(0,c.inject)("trust-verifications@verification-navigation"),d=class extends o.default{constructor(){super(...arguments);(0,i.default)(this,"queryParams",["platform","organization","entryPoint","referrer"]);(0,t.default)(this,"verificationStatus",f,this);(0,t.default)(this,"verificationNavigation",p,this);(0,i.default)(this,"verificationStatusObject",s.VERIFICATION_STATUS);(0,i.default)(this,"verificationType",s.VERIFICATION_TYPE.LINKEDIN_LEARNING)}restartVerification(){this.send("refreshRoute")
+this.verificationStatus=s.VERIFICATION_STATUS.STARTED}onViewYourProfileButtonClick(){this.verificationNavigation.viewProfile()}onAddToProfileClick(){}},f=(0,r.default)(d.prototype,"verificationStatus",[n.tracked],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return s.VERIFICATION_STATUS.STARTED}}),p=(0,r.default)(d.prototype,"verificationNavigation",[u],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),(0,r.default)(d.prototype,"restartVerification",[l.action],Object.getOwnPropertyDescriptor(d.prototype,"restartVerification"),d.prototype),(0,r.default)(d.prototype,"onViewYourProfileButtonClick",[l.action],Object.getOwnPropertyDescriptor(d.prototype,"onViewYourProfileButtonClick"),d.prototype),(0,r.default)(d.prototype,"onAddToProfileClick",[l.action],Object.getOwnPropertyDescriptor(d.prototype,"onAddToProfileClick"),d.prototype),d)
+e.default=m}))
+define("trust-verifications/controllers/microsoft-entra",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/controller","@ember/object","trust/utils/web-view","@ember/service","@glimmer/tracking","trust/data/verification-status-action","trust/data/profile-component-action","trust/utils/verifications/constants","@ember/string"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var m,h,v,_,b,y,T,g,I,E,S,A,R,O
+let N=(m=(0,l.inject)("pem-tracking"),h=(0,l.inject)("jet"),v=(0,l.inject)("router"),_=(0,l.inject)("global-services@store-shim"),b=(0,l.inject)("trust@verifications-tracking"),y=(0,l.inject)("trust-verifications@verification-navigation"),T=class extends o.default{constructor(){var e,r
+super(...arguments);(0,t.default)(this,"pemTracking",g,this);(0,t.default)(this,"jet",I,this);(0,t.default)(this,"router",E,this);(0,t.default)(this,"storeShim",S,this);(0,t.default)(this,"verificationsTracking",A,this);(0,t.default)(this,"verificationNavigation",R,this);(0,i.default)(this,"queryParams",["organization","platform","entryPoint","referrer","vanityName","trkState"]);(0,t.default)(this,"verificationStatus",O,this);(0,i.default)(this,"verificationRequestId",void 0);(0,i.default)(this,"platform",null===(e=this.router.currentRoute)||void 0===e||null===(r=e.queryParams)||void 0===r?void 0:r.platform)}get verificationStatusTag(){return[f.VERIFICATION_STATUS.STARTED,f.VERIFICATION_STATUS.CONSENT_NEEDED,f.VERIFICATION_STATUS.SUCCEED].includes(this.verificationStatus)?(0,p.dasherize)(this.verificationStatus).toLowerCase():"error"}onStartButtonClick(){this.verificationStatus=f.VERIFICATION_STATUS.LOADING;(0,s.notifyNativeClient)({externalAgentVerificationUrl:this.model.externalAgentVerificationUrl})
+this.jet.noise(`[DEBUG] CTA_LINK -  start button on microsoft-entra start page for platform: ${this.platform} should be clicked`,["tg-funnel-tracking","microsoft-entra","started","primary-cta"],{shouldRethrow:!1})}async onSubmitButtonClick(){this.verificationStatus=f.VERIFICATION_STATUS.LOADING
+await(0,u.createVerificationStatus)(this.storeShim,f.ENTRA_VERIFICATION_STATUS.STARTED,this.pemTracking).then((e=>{let{newId:t}=e
+this.verificationRequestId=t})).catch((e=>{if(!e||!e.isAdapterError)throw e
+this.verificationStatus=f.VERIFICATION_STATUS.DOWNSTREAM_FAILED}))
+this.verificationRequestId&&(0,d.employmentVerification)(this.storeShim,this.model.companyUrn,this.verificationRequestId,this.pemTracking).then((e=>{let{data:t}=e
+const i=t.value;(0,s.notifyNativeClient)({presentationUrl:i})})).catch((e=>{if(!e||!e.isAdapterError)throw e
+this.verificationStatus=f.VERIFICATION_STATUS.DOWNSTREAM_FAILED
+this.verificationRequestId=void 0}))
+this.jet.noise(`[DEBUG] CTA_LINK -  verification submission button on microsoft-entra consent page for platform: ${this.platform} should be clicked`,["tg-funnel-tracking","microsoft-entra","consent-needed","primary-cta"],{shouldRethrow:!1})}onCloseButtonClick(){(0,s.notifyNativeClient)({closeWebView:""})
+this.jet.noise(`[DEBUG] CTA_LINK -  close button on microsoft-entra page for verification state: ${this.verificationStatus} and platform: ${this.platform} should be clicked`,["tg-funnel-tracking","microsoft-entra",this.verificationStatusTag,"other-cta"],{shouldRethrow:!1})}onViewYourProfileButtonClick(){this.verificationNavigation.transitionFromVerificationFlow()
+this.jet.noise(`[DEBUG] CTA_LINK -  "view your profile" button on microsoft-entra result page for platform: ${this.platform} should be clicked`,["tg-funnel-tracking","microsoft-entra",this.verificationStatusTag,"primary-cta"],{shouldRethrow:!1})}restartVerification(){this.jet.noise(`[DEBUG] CTA_LINK -  "restart verification" button on microsoft-entra page for platform: ${this.platform} when state is DOWNSTREAM_FAILED should be clicked`,["tg-funnel-tracking","microsoft-entra",this.verificationStatusTag,"generic-error","other-cta"],{shouldRethrow:!1})
+this.verificationsTracking.updateTrkState("microsoft-entra",f.VERIFICATION_STATUS.STARTED)
+this.send("refreshRoute")
+this.verificationStatus=f.VERIFICATION_STATUS.STARTED}},g=(0,r.default)(T.prototype,"pemTracking",[m],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),I=(0,r.default)(T.prototype,"jet",[h],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),E=(0,r.default)(T.prototype,"router",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),S=(0,r.default)(T.prototype,"storeShim",[_],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),A=(0,r.default)(T.prototype,"verificationsTracking",[b],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),R=(0,r.default)(T.prototype,"verificationNavigation",[y],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),O=(0,r.default)(T.prototype,"verificationStatus",[c.tracked],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return f.VERIFICATION_STATUS.STARTED}}),(0,r.default)(T.prototype,"onStartButtonClick",[n.action],Object.getOwnPropertyDescriptor(T.prototype,"onStartButtonClick"),T.prototype),(0,r.default)(T.prototype,"onSubmitButtonClick",[n.action],Object.getOwnPropertyDescriptor(T.prototype,"onSubmitButtonClick"),T.prototype),(0,r.default)(T.prototype,"onCloseButtonClick",[n.action],Object.getOwnPropertyDescriptor(T.prototype,"onCloseButtonClick"),T.prototype),(0,r.default)(T.prototype,"onViewYourProfileButtonClick",[n.action],Object.getOwnPropertyDescriptor(T.prototype,"onViewYourProfileButtonClick"),T.prototype),(0,r.default)(T.prototype,"restartVerification",[n.action],Object.getOwnPropertyDescriptor(T.prototype,"restartVerification"),T.prototype),T)
+e.default=N}))
+define("trust-verifications/controllers/trust-verification-desktop",["exports","@babel/runtime/helpers/esm/defineProperty","@ember/controller"],(function(e,t,i){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+class r extends i.default{constructor(){super(...arguments);(0,t.default)(this,"queryParams",["verificationUrl"])}}e.default=r}))
+define("trust-verifications/controllers/verifications-hub",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/controller","@ember/object","@ember/service","@glimmer/tracking"],(function(e,t,i,r,a,o,n,s,l){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var c,u,d,f
+let p=(c=(0,s.inject)("trust-verifications@verification-navigation"),u=class extends o.default{constructor(){super(...arguments);(0,i.default)(this,"queryParams",["platform","entryPoint","referrer"]);(0,t.default)(this,"verificationNavigation",d,this);(0,t.default)(this,"shouldShowShimmer",f,this)}onEligibleVerificationClick(e){this.send("redirectToVerificationRoute",e,this.model.value.platform,this.model.value.entryPoint,!0)}onProfileCardClick(){this.verificationNavigation.viewProfile(this.updateShouldShowShimmer)}restart(){this.send("refreshRoute")}updateShouldShowShimmer(e){this.shouldShowShimmer=e}},d=(0,r.default)(u.prototype,"verificationNavigation",[c],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),f=(0,r.default)(u.prototype,"shouldShowShimmer",[l.tracked],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return!1}}),(0,r.default)(u.prototype,"onEligibleVerificationClick",[n.action],Object.getOwnPropertyDescriptor(u.prototype,"onEligibleVerificationClick"),u.prototype),(0,r.default)(u.prototype,"onProfileCardClick",[n.action],Object.getOwnPropertyDescriptor(u.prototype,"onProfileCardClick"),u.prototype),(0,r.default)(u.prototype,"restart",[n.action],Object.getOwnPropertyDescriptor(u.prototype,"restart"),u.prototype),(0,r.default)(u.prototype,"updateShouldShowShimmer",[n.action],Object.getOwnPropertyDescriptor(u.prototype,"updateShouldShowShimmer"),u.prototype),u)
+e.default=p}))
+define("trust-verifications/controllers/work-email",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/controller","@ember/object","@ember/service","@glimmer/tracking","employee-verification/utils/constants","trust/utils/verifications/cancel-tracking","trust/utils/verifications/constants"],(function(e,t,i,r,a,o,n,s,l,c,u,d){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var f,p,m,h,v,_,b
+let y=(f=(0,s.inject)("tracking"),p=(0,s.inject)("trust-verifications@verification-navigation"),m=class extends o.default{constructor(){super(...arguments);(0,t.default)(this,"tracking",h,this);(0,t.default)(this,"verificationNavigation",v,this);(0,i.default)(this,"queryParams",["organization","organizations","platform","entryPoint","referrer"]);(0,t.default)(this,"employeeVerificationState",_,this);(0,t.default)(this,"verificationStatus",b,this);(0,i.default)(this,"verificationStatusMap",d.VERIFICATION_STATUS_MAP)}get shouldShowNavHeader(){return!this.isMobile&&this.employeeVerificationState.step===c.STEP_EMAIL_INPUT&&this.verificationStatus===d.VERIFICATION_STATUS_MAP.INCOMPLETE}onPrimaryButtonClick(){this.verificationNavigation.transitionFromVerificationFlow()}restartVerification(){this.verificationStatus=d.VERIFICATION_STATUS_MAP.INCOMPLETE
+this.employeeVerificationState.step=c.STEP_EMAIL_INPUT;(0,u.notifyCancelTracking)("work-email",c.STEP_EMAIL_INPUT)}onUpdateState(e){const{isVerificationComplete:t,messageId:i,step:r}=e
+i&&this.tracking.firePageViewEvent(d.WORK_EMAIL_MESSAGE_ID_MAP_TO_PAGE_KEYS[i])
+r!==this.employeeVerificationState.step&&(0,u.notifyCancelTracking)("work-email",r)
+if(t){this.verificationStatus=d.VERIFICATION_STATUS_MAP.SUCCESS;(0,u.notifyCancelTracking)("work-email",d.RESULT)}this.employeeVerificationState=e}onHandleError(){this.verificationStatus=d.VERIFICATION_STATUS_MAP.FAILED;(0,u.notifyCancelTracking)("work-email",d.RESULT)}},h=(0,r.default)(m.prototype,"tracking",[f],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),v=(0,r.default)(m.prototype,"verificationNavigation",[p],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),_=(0,r.default)(m.prototype,"employeeVerificationState",[l.tracked],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return{isOpen:!1,step:c.STEP_EMAIL_INPUT}}}),b=(0,r.default)(m.prototype,"verificationStatus",[l.tracked],{configurable:!0,enumerable:!0,writable:!0,initializer:function(){return d.VERIFICATION_STATUS_MAP.INCOMPLETE}}),(0,r.default)(m.prototype,"onPrimaryButtonClick",[n.action],Object.getOwnPropertyDescriptor(m.prototype,"onPrimaryButtonClick"),m.prototype),(0,r.default)(m.prototype,"restartVerification",[n.action],Object.getOwnPropertyDescriptor(m.prototype,"restartVerification"),m.prototype),(0,r.default)(m.prototype,"onUpdateState",[n.action],Object.getOwnPropertyDescriptor(m.prototype,"onUpdateState"),m.prototype),(0,r.default)(m.prototype,"onHandleError",[n.action],Object.getOwnPropertyDescriptor(m.prototype,"onHandleError"),m.prototype),m)
+e.default=y}))
+define("trust-verifications/engine",["exports","ember-engines/engine","ember-load-initializers","voyager-web/resolver"],(function(e,t,i,r){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+const a="trust-verifications",o=t.default.extend({Resolver:r.default,modulePrefix:a});(0,i.default)(o,a)
+var n=o
+e.default=n}))
+define.alias("ember-truth-helpers/helpers/and","trust-verifications/helpers/and")
+define.alias("artdeco-datepicker/helpers/artdeco-adjust-date-for-timezone","trust-verifications/helpers/artdeco-adjust-date-for-timezone")
+define.alias("artdeco-datepicker/helpers/artdeco-is-between-dates","trust-verifications/helpers/artdeco-is-between-dates")
+define.alias("artdeco-datepicker/helpers/cal-dates-equal","trust-verifications/helpers/cal-dates-equal")
+define.alias("ember-element-helper/helpers/element","trust-verifications/helpers/element")
+define.alias("ember-holy-futuristic-template-namespacing-batman/helpers/-translate-dynamic-2","trust-verifications/helpers/ember-holy-futuristic-template-namespacing-batman-translate-dynamic-2")
+define("trust-verifications/helpers/ensure-safe-component",["exports","@embroider/util"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+Object.defineProperty(e,"default",{enumerable:!0,get:function(){return t.EnsureSafeComponentHelper}})}))
+define.alias("ember-truth-helpers/helpers/eq","trust-verifications/helpers/eq")
+define.alias("ember-cli-pemberly-i18n/helpers/format-number","trust-verifications/helpers/format-number")
+define.alias("hue-web-icons/helpers/get-asset-url","trust-verifications/helpers/get-asset-url")
+define.alias("ember-truth-helpers/helpers/gt","trust-verifications/helpers/gt")
+define.alias("ember-truth-helpers/helpers/gte","trust-verifications/helpers/gte")
+define.alias("ember-truth-helpers/helpers/is-array","trust-verifications/helpers/is-array")
+define.alias("ember-truth-helpers/helpers/is-empty","trust-verifications/helpers/is-empty")
+define.alias("ember-truth-helpers/helpers/is-equal","trust-verifications/helpers/is-equal")
+define.alias("artdeco-icons-web/helpers/li-icon","trust-verifications/helpers/li-icon")
+define.alias("ember-async-data/helpers/load","trust-verifications/helpers/load")
+define.alias("ember-truth-helpers/helpers/lt","trust-verifications/helpers/lt")
+define.alias("ember-truth-helpers/helpers/lte","trust-verifications/helpers/lte")
+define.alias("ember-truth-helpers/helpers/not-eq","trust-verifications/helpers/not-eq")
+define.alias("ember-truth-helpers/helpers/not","trust-verifications/helpers/not")
+define.alias("ember-truth-helpers/helpers/or","trust-verifications/helpers/or")
+define("trust-verifications/helpers/ref-to",["exports","ember-ref-bucket/helpers/ref-to"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+Object.defineProperty(e,"default",{enumerable:!0,get:function(){return t.default}})
+Object.defineProperty(e,"refTo",{enumerable:!0,get:function(){return t.default}})}))
+define.alias("ember-app-scheduler/helpers/route-idle","trust-verifications/helpers/route-idle")
+define.alias("ember-set-helper/helpers/set","trust-verifications/helpers/set")
+define.alias("ember-cli-pemberly-i18n/helpers/t","trust-verifications/helpers/t")
+define.alias("ember-truth-helpers/helpers/xor","trust-verifications/helpers/xor")
+define.alias("ember-uuid","trust-verifications/index")
+define("trust-verifications/initializers/icons",["exports","artdeco-icons-web/src/icons","trust-verifications/config/environment"],(function(e,t,i){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+function r(e){throw e}var a={name:"icons",initialize:function(){const{environment:e,APP:a}=i.default
+let o,n
+a&&({artdecoCustomSpriteUrl:o,artdecoCustomSpriteName:n}=a)
+const s="test"!==e
+t.default.load(s,o,n).catch(r)}}
+e.default=a}))
+define.alias("ember-cli-pemberly-lix/initializers/lix","trust-verifications/initializers/lix")
+define.alias("ember-m3/initializers/m3-store","trust-verifications/initializers/m3-store")
+define.alias("artdeco-datepicker/modifiers/artdeco-calendar-click-watcher","trust-verifications/modifiers/artdeco-calendar-click-watcher")
+define.alias("ember-ref-bucket/modifiers/create-ref","trust-verifications/modifiers/create-ref")
+define.alias("@ember/render-modifiers/modifiers/did-insert","trust-verifications/modifiers/did-insert")
+define.alias("@ember/render-modifiers/modifiers/did-update","trust-verifications/modifiers/did-update")
+define.alias("ember-prop-modifier","trust-verifications/modifiers/prop")
+define.alias("@ember/render-modifiers/modifiers/will-destroy","trust-verifications/modifiers/will-destroy")
+define("trust-verifications/routes/application",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/routing/route","@ember/service","trust/utils/constants"],(function(e,t,i,r,a,o,n,s){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var l,c,u,d,f
+let p=(l=(0,n.inject)("global-nav-shared@nav-interaction"),c=(0,n.inject)("trust@trust-session-storage"),u=class extends o.default{constructor(){super(...arguments);(0,t.default)(this,"navInteraction",d,this);(0,t.default)(this,"sessionStorage",f,this)}activate(){super.activate(...arguments)
+this.navInteraction.takeOver(!0)}deactivate(e){super.deactivate(...arguments)
+if(e){const{entryPoint:t}=e.from.queryParams
+s.TRUST_SESSION_STORAGE_KEY[t]&&this.sessionStorage.removeKey(s.TRUST_SESSION_STORAGE_KEY[t])}this.navInteraction.takeOver(!1)}},d=(0,r.default)(u.prototype,"navInteraction",[l],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),f=(0,r.default)(u.prototype,"sessionStorage",[c],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),u)
+e.default=p}))
+define("trust-verifications/routes/base",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/service","@ember/object","@ember/routing/route","@ember/destroyable","trust/utils/verifications/cancel-tracking","trust-verifications/utils/constants","trust-verifications/utils/lix","trust/utils/verifications/lix","trust/utils/verifications/constants"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var m,h,v,_,b,y,T
+let g=(m=(0,o.inject)("authentication@authenticated-user"),h=(0,o.inject)("lix"),v=(0,o.inject)("jet"),_=class extends s.default{constructor(){super(...arguments);(0,t.default)(this,"authenticatedUser",b,this);(0,t.default)(this,"lix",y,this);(0,t.default)(this,"jet",T,this)}beforeModel(){this._sendCancelTrackingKey()}get isClearV2(){return this.verificationType===p.VERIFICATION_TYPE.CLEAR&&this.lix.getTreatmentIsEnabled(f.LIX_KEY_TRUST_VERIFICATIONS_START_PAGE_UPDATE)}get isWorkEmailV2(){return this.pathName===p.VERIFICATION_URL.WORK_EMAIL&&this.lix.getTreatmentIsEnabled(d.LIX_KEY_TRUST_VERIFICATIONS_VIA_WORK_EMAIL_V2)}get isMEVFlow(){const e=this.paramsFor(this.routeName).organizations||"[]",t=JSON.parse(e)
+return(null==t?void 0:t.length)>1&&this.lix.getTreatmentIsEnabled(d.LIX_KEY_TRUST_VERIFICATIONS_VIA_MULTIPLE_WORK_EMAIL)}get isMobile(){const{platform:e}=this.paramsFor(this.routeName)
+return e!==u.DESKTOP}get isAccountMismatchForQrcode(){const{platform:e,vanityName:t}=this.paramsFor(this.routeName)
+if(t&&e===u.MOBILE){return this.authenticatedUser.memberId!==t}return!1}pageKey(){let e
+const{platform:t}=this.paramsFor(this.routeName)
+if(this.isMEVFlow){var i,r
+e=(null===(i=u.ANCHOR_PAGE_KEY_MAP[this.pathName].MEV)||void 0===i?void 0:i[t])||(null===(r=u.ANCHOR_PAGE_KEY_MAP[this.pathName].MEV)||void 0===r?void 0:r.DEFAULT)}else if(this.isClearV2||this.isWorkEmailV2){var a,o
+e=(null===(a=u.ANCHOR_PAGE_KEY_MAP[this.pathName].V2)||void 0===a?void 0:a[t])||(null===(o=u.ANCHOR_PAGE_KEY_MAP[this.pathName].V2)||void 0===o?void 0:o.DEFAULT)}else{var n,s
+e=(null===(n=u.ANCHOR_PAGE_KEY_MAP[this.pathName])||void 0===n?void 0:n[t])||(null===(s=u.ANCHOR_PAGE_KEY_MAP[this.pathName])||void 0===s?void 0:s.DEFAULT)}const l=this.pathName.replaceAll("/","-").substr(1,this.pathName.length-2)
+this.jet.noise(`[DEBUG] PAGE_RENDER - page key: ${e} for path: ${this.pathName}, platform: ${t} should be rendered`,["tg-funnel-tracking","anchored-page",l],{shouldRethrow:!1})
+return e}setupController(e,t,i){if(!(0,l.isDestroying)(this)){super.setupController(...arguments)
+this._setUpIsMobile(e)
+this._setUpNavHeaderOnDesktop(e,t,i)}}isLixEnabled(e){let t
+switch(e){case p.VERIFICATION_TYPE.AADHAAR:t=this.isMobile?d.LIX_KEY_TRUST_VERIFICATIONS_VIA_AADHAAR:d.LIX_KEY_TRUST_VERIFICATIONS_QRCODE
+break
+case p.VERIFICATION_TYPE.CLEAR:return this.isMobile||this.lix.getTreatmentIsEnabled(d.LIX_KEY_TRUST_VERIFICATIONS_QRCODE)
+case p.VERIFICATION_TYPE.MICROSOFT_ENTRA:t=this.isMobile?d.LIX_KEY_TRUST_VERIFICATIONS_VIA_MICROSOFT_ENTRA:d.LIX_KEY_TRUST_VERIFICATIONS_QRCODE
+break
+case p.VERIFICATION_TYPE.LINKEDIN_LEARNING:t=d.LIX_KEY_TRUST_VERIFICATIONS_VIA_LEARNING
+break
+default:t=null}return null!==t&&this.lix.getTreatmentIsEnabled(t)}_sendCancelTrackingKey(){let e,t
+if("identity-start"===this.routeName){e=this.verificationType
+t=p.VERIFICATION_STATUS.STARTED}else if("identity-result"===this.routeName){e=this.verificationType
+t=p.RESULT}else if("learning"===this.routeName){const i="_"
+e=this.routeName+i+this.categoryKey
+t=p.VERIFICATION_STATUS.STARTED}else{e=this.routeName
+t=p.VERIFICATION_STATUS.STARTED}(0,c.notifyCancelTracking)(e,t)}_setUpIsMobile(e){e.isMobile=this.isMobile}_setUpNavHeaderOnDesktop(e,t,i){var r
+if(this.isMobile)return
+const{entryPoint:a,referrer:o,platform:n}=null==i||null===(r=i.to)||void 0===r?void 0:r.queryParams
+let s,l,c
+const u={entryPoint:a,platform:n}
+if("verify_hub"===o)l="verifications-hub"
+else if(p.ENTRY_POINT_TO_ROUTE_MAP[a]){var d,f
+const e=null===(d=this.authenticatedUser)||void 0===d||null===(f=d.miniProfile)||void 0===f?void 0:f.publicIdentifier
+l=p.ENTRY_POINT_TO_ROUTE_MAP[a].route
+c=p.ENTRY_POINT_TO_ROUTE_MAP[a].needsVanity?e:null
+s=!0}else{l="feed.index"
+s=!0}e.hasExternalBackButtonLink=s
+e.headerLinkRouteName=l
+e.headerLinkModel=c
+e.headerLinkQueryParam=u}refreshRoute(){this.refresh()}},b=(0,r.default)(_.prototype,"authenticatedUser",[m],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),y=(0,r.default)(_.prototype,"lix",[h],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),T=(0,r.default)(_.prototype,"jet",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),(0,r.default)(_.prototype,"refreshRoute",[n.action],Object.getOwnPropertyDescriptor(_.prototype,"refreshRoute"),_.prototype),_)
+e.default=g}))
+define("trust-verifications/routes/identity-result",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/destroyable","rsvp","@ember/service","trust-verifications/routes/base","trust/data/verification-result-action","trust/utils/verifications/constants","trust/utils/constants","global-utils/utils/is-browser","ember-async-data/tracked-async-data"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var m,h,v,_,b,y,T,g,I,E,S
+let A=(m=(0,s.inject)("trust@trust-session-storage"),h=(0,s.inject)("global-services@store-shim"),v=(0,s.inject)("pem-tracking"),_=(0,s.inject)("jet"),b=(0,s.inject)("trust@verifications-tracking"),y=class extends l.default{constructor(){super(...arguments);(0,t.default)(this,"sessionStorage",T,this);(0,t.default)(this,"storeShim",g,this);(0,t.default)(this,"pemTracking",I,this);(0,t.default)(this,"jet",E,this);(0,t.default)(this,"verificationsTracking",S,this)}get verificationType(){return this.paramsFor(this.routeName).verificationType}get pathName(){return`/verifications/identity/${this.verificationType}/result/`}beforeModel(){super.beforeModel(...arguments)
+this.isLixEnabled(this.verificationType)||this.transitionToExternal("feed.index")}model(e,t){if((0,o.isDestroying)(this))return
+if(!f.default)return(0,n.resolve)()
+const i=this._validateQueryParams(e)
+if(i){if(i.verificationStatus){t.then((()=>{(0,o.isDestroying)(this)||this.verificationsTracking.updateTrkState(i.verificationType,i.verificationStatus)}))
+return new p.default(i)}return i}let r
+this.verificationType===u.VERIFICATION_TYPE.CLEAR?r={clearVerificationResultRequestData:{authorizationCode:e.code}}:this.verificationType===u.VERIFICATION_TYPE.AADHAAR&&(r={hyperVergeAadhaarVerificationResultRequestData:e.transactionId})
+this.jet.noise(`[DEBUG] Before invoking identity result API for ${e.verificationType} on device ${null==e?void 0:e.platform}`,["tg-funnel-tracking",e.verificationType],{shouldRethrow:!1})
+return new p.default((0,c.verifyAndComputeVerificationResult)(this.storeShim,this.pemTracking,r).then((t=>{let{data:i}=t
+if((0,o.isDestroying)(this))return
+this.jet.noise(`[DEBUG] After invoking identity result API for ${e.verificationType} on device ${null==e?void 0:e.platform}`,["tg-funnel-tracking",e.verificationType],{shouldRethrow:!1})
+const{verificationStatus:r}=i.value
+this.verificationsTracking.updateTrkState(this.verificationType,r)
+return{verificationStatus:r,verificationType:this.verificationType}})))}_validateQueryParams(e){if(!f.default)return null
+switch(this.verificationType){case u.VERIFICATION_TYPE.CLEAR:return this._validateQueryParamsForClear(e)
+case u.VERIFICATION_TYPE.AADHAAR:return this._validateQueryParamsForAadhaar(e)
+default:return null}}_validateQueryParamsForClear(e){const{state:t,code:i,error:r}=e,a=this.sessionStorage.validate(d.TRUST_SESSION_STORAGE_KEY.CLEAR,decodeURIComponent(t))
+this.sessionStorage.removeKey(d.TRUST_SESSION_STORAGE_KEY.CLEAR)
+return a?!i||r?{verificationStatus:u.VERIFICATION_STATUS.NO_CONSENT,verificationType:this.verificationType}:null:this.transitionToExternal("feed.index")}_validateQueryParamsForAadhaar(e){const{transactionId:t}=e
+return t?null:{verificationStatus:u.VERIFICATION_STATUS.FAILED_AT_VENDOR,verificationType:this.verificationType}}},T=(0,r.default)(y.prototype,"sessionStorage",[m],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),g=(0,r.default)(y.prototype,"storeShim",[h],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),I=(0,r.default)(y.prototype,"pemTracking",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),E=(0,r.default)(y.prototype,"jet",[_],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),S=(0,r.default)(y.prototype,"verificationsTracking",[b],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),y)
+e.default=A}))
+define("trust-verifications/routes/identity-start",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/object","@ember/service","@ember/destroyable","trust/utils/web-view","rsvp","@ember/string","trust-verifications/routes/base","graphql-queries/queries/trust-verifications/identity-verification-start.graphql","ember-async-data/tracked-async-data","trust-verifications/utils/constants","global-utils/utils/is-browser","trust-verifications/utils/lix","trust/utils/verifications/constants"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p,m,h,v,_){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var b,y,T,g,I,E,S,A,R,O,N,C,k,D,P
+let w=(b=(0,n.inject)("lix"),y=(0,n.inject)("@linkedin/ember-restli-graphql@graphql"),T=(0,n.inject)("global-nav-shared@nav-interaction"),g=(0,n.inject)("router"),I=(0,n.inject)("global-services@window"),E=(0,n.inject)("tracking"),S=(0,n.inject)("jet"),A=class extends d.default{constructor(){super(...arguments);(0,t.default)(this,"lix",R,this);(0,t.default)(this,"graphql",O,this);(0,t.default)(this,"navInteraction",N,this);(0,t.default)(this,"router",C,this);(0,t.default)(this,"windowService",k,this);(0,t.default)(this,"tracking",D,this);(0,t.default)(this,"jet",P,this)}get verificationType(){return this.paramsFor(this.routeName).verificationType}get pathName(){return`/verifications/identity/${this.verificationType}/start/`}activate(){super.activate(...arguments)
+this.isMobile||this.navInteraction.takeOver(!1)
+if(h.default){this.onHandleTrustVerificationsMessage=this._onHandleTrustVerificationsMessage.bind(this)
+this.windowService.addEventListener("sendTrustVerificationsMessage",this.onHandleTrustVerificationsMessage)}}deactivate(){super.deactivate(...arguments)
+h.default&&this.onHandleTrustVerificationsMessage&&this.windowService.removeEventListener("sendTrustVerificationsMessage",this.onHandleTrustVerificationsMessage)}beforeModel(){super.beforeModel(...arguments)
+this.isLixEnabled(this.verificationType)||this.transitionToExternal("feed.index")
+this.controllerFor(this.routeName).accountMismatch=this.isAccountMismatchForQrcode}model(e){if((0,s.isDestroying)(this))return
+this.controllerFor(this.routeName).shouldShowShimmer=!1
+const{entryPoint:t,referrer:i,verificationType:r}=e
+if(this.lix.getTreatmentIsEnabled(v.LIX_KEY_TRUST_VERIFICATIONS_ENFORCE_CLIENT_ONLY_CALL_AADHAAR_START)&&!h.default&&r===_.VERIFICATION_TYPE.AADHAAR)return(0,c.resolve)()
+const a={degradations:[_.TRUST_VERIFICATIONS_DEGRADATION_METADATA.START_VERIFICATION],degradedEntityIDsToRemove:[]},o=this.graphql.executeQuery(f.default,{verificationType:(0,u.underscore)(r).toUpperCase(),...!this.isMobile&&t&&{verificationEntryPoint:t.toUpperCase()},...!this.isMobile&&i&&{verificationReferrer:i.toUpperCase()}},{adapterOptions:a,reload:!0})
+return new p.default(o.then((e=>{var t
+if((0,s.isDestroying)(this))return
+const i=null===(t=e.data.trustDashVerificationStartsByVerificationType.elements)||void 0===t?void 0:t[0]
+return{controlName:i.controlName,verificationUrl:i.verificationUrl,qrCodeImageData:i.qrCodeImageData,verificationType:r}})))}_onHandleTrustVerificationsMessage(e){const{verificationType:t,queryParams:i}=e.detail,r=e.detail.action,{COMPLETE_VENDOR_FLOW:a,CANCEL_VENDOR_FLOW:o}=m.ACTIONS_OF_SEND_TRUST_VERIFICATIONS_MESSAGE
+if(r===a)if("true"===String(i.shouldCloseWebView))(0,l.notifyNativeClient)({closeWebView:""})
+else{const e=null==t?void 0:t.toLowerCase(),{entryPoint:r,platform:a,referrer:o}=this.paramsFor(this.routeName)
+i.entryPoint=r
+i.referrer=o
+i.platform=(null==i?void 0:i.platform)||a
+this.jet.noise(`[DEBUG] Vendor flow has been completed on identity-start page for ${e} on device ${null==i?void 0:i.platform}`,["tg-funnel-tracking",e],{shouldRethrow:!1})
+this.router.transitionTo("trust-verifications.identity-result",e,{queryParams:i})}else if(r===o){this.controllerFor(this.routeName).shouldShowShimmer=!1
+this.tracking.firePageViewEvent(m.CLEAR_CANCEL_WEBVIEW_DEBUG)}}refreshRoute(){this.refresh()}},R=(0,r.default)(A.prototype,"lix",[b],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),O=(0,r.default)(A.prototype,"graphql",[y],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),N=(0,r.default)(A.prototype,"navInteraction",[T],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),C=(0,r.default)(A.prototype,"router",[g],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),k=(0,r.default)(A.prototype,"windowService",[I],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),D=(0,r.default)(A.prototype,"tracking",[E],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),P=(0,r.default)(A.prototype,"jet",[S],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),(0,r.default)(A.prototype,"refreshRoute",[o.action],Object.getOwnPropertyDescriptor(A.prototype,"refreshRoute"),A.prototype),A)
+e.default=w}))
+define("trust-verifications/routes/learning",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/destroyable","trust-verifications/routes/base","trust/utils/verifications/constants","@ember/service","trust/utils/company-urn","trust/utils/verifications/extract-company-info","graphql-queries/queries/trust/verifying-member-with-company-by-urn.graphql","@linkedin/ember-restli-graphql","restli-utils"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var m,h,v,_,b
+let y=(m=(0,l.inject)("global-nav-shared@nav-interaction"),h=(0,l.inject)("@linkedin/ember-restli-graphql@graphql"),v=class extends n.default{constructor(){super(...arguments);(0,t.default)(this,"navInteraction",_,this);(0,t.default)(this,"graphql",b,this);(0,i.default)(this,"pageKey","flagship3_trust_verifications_learning")}get categoryKey(){return this.paramsFor(this.routeName).categoryKey}beforeModel(){super.beforeModel(...arguments)
+this.isLixEnabled(s.VERIFICATION_TYPE.LINKEDIN_LEARNING)&&s.VERIFICATION_CATEGORY_PATH_SEGMENTS.includes(this.categoryKey)||this.transitionToExternal("feed.index")}model(e){if((0,o.isDestroying)(this))return
+const t=this.controllerFor(this.routeName)
+t.verificationStatus=s.VERIFICATION_STATUS.LOADING
+const{organization:i}=e,r=i||"",a=(0,c.getDashCompanyUrnFromId)(r)
+if(!a)return this.transitionToExternal("feed.index")
+const n={adapterOptions:{degradations:[s.TRUST_VERIFICATIONS_DEGRADATION_METADATA.GET_COMPANY_BY_ID],degradedEntityIDsToRemove:[]},reload:!0}
+return this.graphql.executeQuery(d.default,{companyUrn:a},n).then((e=>{if((0,o.isDestroying)(this))return
+t.verificationStatus=s.VERIFICATION_STATUS.STARTED
+const i=e.data.organizationDashCompaniesById
+return{...(0,u.default)(i),categoryKey:this.categoryKey}})).catch((e=>{if((0,o.isDestroying)(this))throw e
+if(!e||!(e instanceof f.GraphQLQueryError||e.isAdapterError))throw e
+{const i=e.errors[0];(i&&i.extensions.status)>=p.httpStatus.S_500_INTERNAL_SERVER_ERROR?t.verificationStatus=s.VERIFICATION_STATUS.DOWNSTREAM_FAILED:this.transitionToExternal("feed.index")}}))}activate(){super.activate(...arguments)
+this.isMobile||this.navInteraction.takeOver(!1)}},_=(0,r.default)(v.prototype,"navInteraction",[m],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),b=(0,r.default)(v.prototype,"graphql",[h],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),v)
+e.default=y}))
+define("trust-verifications/routes/microsoft-entra",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/destroyable","@ember/object","@linkedin/ember-restli-graphql","@ember/service","trust-verifications/routes/base","global-utils/utils/is-browser","graphql-queries/queries/trust/employment-verification-start.graphql","graphql-queries/queries/trust/verification-status-by-urn.graphql","trust/utils/company-urn","trust/utils/verifications/constants","restli-utils","trust/utils/verifications/cancel-tracking","trust-verifications/utils/constants","trust/utils/verifications/urns"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p,m,h,v,_,b){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var y,T,g,I,E,S,A,R,O
+let N=(y=(0,l.inject)("@linkedin/ember-restli-graphql@graphql"),T=(0,l.inject)("global-services@window"),g=(0,l.inject)("jet"),I=(0,l.inject)("trust@verifications-tracking"),E=class extends c.default{constructor(){super(...arguments);(0,t.default)(this,"graphql",S,this);(0,t.default)(this,"windowService",A,this);(0,t.default)(this,"jet",R,this);(0,t.default)(this,"verificationsTracking",O,this)}get pathName(){return"/verifications/employment/microsoft-entra/"}activate(){super.activate(...arguments)
+if(u.default){this.onHandleTrustVerificationsMessage=this._onHandleTrustVerificationsMessage.bind(this)
+this.windowService.addEventListener("sendTrustVerificationsMessage",this.onHandleTrustVerificationsMessage)}}deactivate(){super.deactivate(...arguments)
+u.default&&this.onHandleTrustVerificationsMessage&&this.windowService.removeEventListener("sendTrustVerificationsMessage",this.onHandleTrustVerificationsMessage)}beforeModel(){super.beforeModel(...arguments)
+this.isLixEnabled(m.VERIFICATION_TYPE.MICROSOFT_ENTRA)||this.transitionToExternal("feed.index")
+this.isAccountMismatchForQrcode&&(this.controllerFor(this.routeName).verificationStatus=m.VERIFICATION_STATUS.ACCOUNT_MISMATCH)}model(e){if((0,o.isDestroying)(this))return
+const{entryPoint:t,organization:i,referrer:r}=e,a=i||"",n=(0,p.getDashCompanyUrnFromId)(a)
+if(!n)return this.transitionToExternal("feed.index")
+const l={degradations:[m.TRUST_VERIFICATIONS_DEGRADATION_METADATA.START_EMPLOYMENT_VERIFICATION],degradedEntityIDsToRemove:[]}
+return this.graphql.executeQuery(d.default,{verificationType:"MICROSOFT_ENTRA",organizationUrn:n,...!this.isMobile&&t&&{verificationEntryPoint:t.toUpperCase()},...!this.isMobile&&r&&{verificationReferrer:r.toUpperCase()}},{adapterOptions:l}).then((e=>{var t,i,r,a,n
+if((0,o.isDestroying)(this))return
+const s=null===(t=e.data.trustDashVerificationStartsByVerificationType.elements)||void 0===t?void 0:t[0],l=null===(i=s.organization)||void 0===i?void 0:i.entityUrn
+return{companyUrn:l,companyName:null===(r=s.organization)||void 0===r?void 0:r.name,companyLogo:null===(a=s.organization)||void 0===a||null===(n=a.logoResolutionResult)||void 0===n?void 0:n.vectorImage,externalAgentVerificationUrl:s.verificationUrl,qrCodeImageData:s.qrCodeImageData,isVerificationForLinkedIn:l===m.LINKEDIN_COMPANY_URN}})).catch((e=>{if((0,o.isDestroying)(this))throw e
+if(!e||!(e instanceof s.GraphQLQueryError||e.isAdapterError))throw e
+{var t,i
+const r=null===(t=e.errors)||void 0===t?void 0:t[0];(r&&(null===(i=r.extensions)||void 0===i?void 0:i.status))>=h.httpStatus.S_500_INTERNAL_SERVER_ERROR?this.controllerFor("microsoft-entra").verificationStatus=m.VERIFICATION_STATUS.DOWNSTREAM_FAILED:this.transitionToExternal("feed.index")}}))}_onHandleTrustVerificationsMessage(e){const t=this.controllerFor(this.routeName),i=e.detail.action,r=e.detail.message,{COMPLETE_VENDOR_FLOW:a,COMPLETE_LOGIN:o,GENERIC_ERROR:n,VERIFICATION_ERROR:s,THIRD_PARTY_SDK_LOG:l}=_.ACTIONS_OF_SEND_TRUST_VERIFICATIONS_MESSAGE
+switch(i){case a:(0,v.notifyCancelTracking)(this.routeName,m.RESULT)
+t.verificationStatus=m.VERIFICATION_STATUS.SUCCEEDED
+this.verificationsTracking.updateTrkState("microsoft-entra",t.verificationStatus)
+break
+case o:(0,v.notifyCancelTracking)(this.routeName,m.VERIFICATION_STATUS.CONSENT_NEEDED)
+t.verificationStatus=m.VERIFICATION_STATUS.CONSENT_NEEDED
+this.verificationsTracking.updateTrkState("microsoft-entra",t.verificationStatus)
+break
+case n:t.verificationStatus=m.VERIFICATION_STATUS.DOWNSTREAM_FAILED
+this._logEvent(i,r)
+break
+case s:(0,v.notifyCancelTracking)(this.routeName,m.RESULT)
+this._fetchRequestStatus(this.controllerFor("microsoft-entra").verificationRequestId)
+this._logEvent(i,r)
+break
+case l:this._logEvent(i,r)}}_logEvent(e,t){if(!t)return
+const i=this.paramsFor(this.routeName).platform||"no-platform"
+this.jet.noise(`Action Type: ${e} | Message: ${t}`,["microsoft-entra",e,i.toLowerCase()],{shouldRethrow:!1})}_fetchRequestStatus(e){const t={degradations:[m.TRUST_VERIFICATIONS_DEGRADATION_METADATA.GET_VERIFICATION_ERROR_STATUS],degradedEntityIDsToRemove:[]}
+this.graphql.executeQuery(f.default,{trustDashVerificationRequestStatusesId:`${b.VERIFICATION_REQUEST_STATUS_URN_PREFIX}${e}`},{adapterOptions:t}).then((e=>{var t,i
+if((0,o.isDestroying)(this))return
+const r=null===(t=e.data)||void 0===t||null===(i=t.trustDashVerificationRequestStatusesById)||void 0===i?void 0:i.statusType
+r===m.ENTRA_VERIFICATION_STATUS.NAME_MISMATCH_FAILED?this.controllerFor("microsoft-entra").verificationStatus=m.VERIFICATION_STATUS.NAME_MISMATCH:r===m.ENTRA_VERIFICATION_STATUS.ACCOUNT_ALREADY_USED?this.controllerFor("microsoft-entra").verificationStatus=m.VERIFICATION_STATUS.USED_ID:this.controllerFor("microsoft-entra").verificationStatus=m.VERIFICATION_STATUS.DOWNSTREAM_FAILED
+this.verificationsTracking.updateTrkState("microsoft-entra",this.controllerFor("microsoft-entra").verificationStatus)})).catch((e=>{if((0,o.isDestroying)(this))throw e
+e&&(e instanceof s.GraphQLQueryError||e.isAdapterError)&&(this.controllerFor("microsoft-entra").verificationStatus=m.VERIFICATION_STATUS.DOWNSTREAM_FAILED)
+throw e}))}refreshRoute(){this.refresh()}},S=(0,r.default)(E.prototype,"graphql",[y],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),A=(0,r.default)(E.prototype,"windowService",[T],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),R=(0,r.default)(E.prototype,"jet",[g],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),O=(0,r.default)(E.prototype,"verificationsTracking",[I],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),(0,r.default)(E.prototype,"refreshRoute",[n.action],Object.getOwnPropertyDescriptor(E.prototype,"refreshRoute"),E.prototype),E)
+e.default=N}))
+define("trust-verifications/routes/trust-verification-desktop",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/classPrivateMethodGet","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/routing/route","@ember/service","global-utils/utils/url","trust-verifications/utils/lix","trust-verifications/utils/constants"],(function(e,t,i,r,a,o,n,s,l,c,u){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var d,f,p,m,h,v,_
+let b=(d=(0,s.inject)("lix"),f=(0,s.inject)("router"),p=(v=new WeakSet,_=new WeakSet,class extends n.default{constructor(){super(...arguments)
+_.add(this)
+v.add(this);(0,t.default)(this,"lix",m,this);(0,t.default)(this,"router",h,this);(0,i.default)(this,"pageKey","flagship3_trust_verifications_desktop_campaign")}beforeModel(e){var t,i
+this.lix.getTreatmentIsEnabled(c.LIX_KEY_TRUST_VERIFICATIONS_CAMPAIGN_LINK)||this.transitionToExternal("feed.index")
+const a=decodeURIComponent(null==e||null===(t=e.to)||void 0===t||null===(i=t.queryParams)||void 0===i?void 0:i.verificationUrl),o=(0,l.getRoutablePathRecognizedByApp)(this.router,a)
+o&&(0,r.default)(this,v,y).call(this,o)?(0,r.default)(this,_,T).call(this,o):this.transitionToExternal("feed.index")}}),m=(0,a.default)(p.prototype,"lix",[d],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),h=(0,a.default)(p.prototype,"router",[f],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),p)
+e.default=b
+function y(e){return e.startsWith("/verifications")||e.startsWith("/verify")}function T(e){const t=(0,l.parseQueryString)(e,!0),{name:i,params:r}=this.router.recognize(e),a=Object.values(r),o={...t,platform:u.DESKTOP}
+0!==a.length?this.router.transitionTo(i,a[0],{queryParams:o}):this.router.transitionTo(i,{queryParams:o})}}))
+define("trust-verifications/routes/verifications-hub",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/classStaticPrivateMethodGet","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/destroyable","@ember/object","@ember/service","trust-verifications/routes/base","ember-async-data/tracked-async-data","trust-verifications/utils/lix","global-utils/utils/urn-converter","graphql-queries/queries/trust/verifications/verifications-hub-by-entry-point.graphql","trust-verifications/utils/constants","trust/utils/verifications/constants","trust/utils/verifications/cancel-tracking","trust/utils/web-view","global-utils/utils/is-browser"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p,m,h,v,_,b){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var y,T,g,I,E,S,A,R,O,N,C,k
+let D=(y=(0,l.inject)("lix"),T=(0,l.inject)("@linkedin/ember-restli-graphql@graphql"),g=(0,l.inject)("global-nav-shared@nav-interaction"),I=(0,l.inject)("router"),E=(0,l.inject)("global-services@window"),S=k=class e extends c.default{constructor(){super(...arguments);(0,t.default)(this,"lix",A,this);(0,t.default)(this,"graphql",R,this);(0,t.default)(this,"navInteraction",O,this);(0,t.default)(this,"router",N,this);(0,t.default)(this,"windowService",C,this);(0,i.default)(this,"pageKey","flagship3_trust_verifications_hub")}activate(){super.activate(...arguments)
+this.isMobile||this.navInteraction.takeOver(!1)
+if(b.default){this.onHandleTrustVerificationsMessage=this._onHandleTrustVerificationsMessage.bind(this)
+this.windowService.addEventListener("sendTrustVerificationsMessage",this.onHandleTrustVerificationsMessage)}}deactivate(){super.deactivate(...arguments)
+b.default&&this.onHandleTrustVerificationsMessage&&this.windowService.removeEventListener("sendTrustVerificationsMessage",this.onHandleTrustVerificationsMessage)}_onHandleTrustVerificationsMessage(e){const t=e.detail.action,{REFRESH:i}=m.ACTIONS_OF_SEND_TRUST_VERIFICATIONS_MESSAGE
+t===i&&this.refresh()}beforeModel(){(0,v.notifyCancelTracking)(this.routeName)
+this.lix.getTreatmentIsEnabled(d.LIX_KEY_TRUST_VERIFICATIONS_HUB)||this.transitionToExternal("feed.index")}model(t){if((0,n.isDestroying)(this))return
+const{entryPoint:i,platform:a}=t,o=null==a?void 0:a.toUpperCase(),s={degradations:[h.TRUST_VERIFICATIONS_DEGRADATION_METADATA.GET_VERIFICATION_HUB_DATA],degradedEntityIDsToRemove:[]},l={verificationEntryPoint:null==i?void 0:i.toUpperCase()}
+l.clientPlatformType=o||m.IOS
+const c=this.graphql.executeQuery(p.default,l,{adapterOptions:s,reload:!0})
+return new u.default(c.then((t=>{var a,s,l
+if((0,n.isDestroying)(this))return
+const c=t.data.doGetDataTrustDashVerificationHubPages.result,{verifiedData:u,profile:d,unVerifiedEligibleData:p}=c,m=u?{verificationCategory:u.verificationCategory,verificationType:u.verificationType,otherVerifiedCount:u.otherVerifiedCount,verifiedCompanyName:null===(a=u.verifiedOrganization)||void 0===a?void 0:a.name}:null,v={firstName:d.firstName,lastName:d.lastName,headline:d.headline,picture:(null===(s=d.profilePicture.displayImageReferenceResolutionResult)||void 0===s?void 0:s.vectorImage)||(null===(l=d.profilePicture.displayImageWithFrameReference)||void 0===l?void 0:l.vectorImage)},_=p.map((e=>({verificationType:e.verificationType,verificationCategory:e.verificationCategory,organizationIds:e.organization.map((e=>(0,f.fromUrn)(e.entityUrn).id))})))
+if(i===h.ENTRY_POINT.CLEAR_EXTERNAL_COMMS){const t=(0,r.default)(e,k,w).call(e,_)
+if(t)return this.redirectToVerificationRoute(t,o,i,!1)}return u||1!==p.length?{platform:o,profile:v,entryPoint:i,verifiedData:m,unVerifiedEligibleData:_}:this.redirectToVerificationRoute(_[0],o,i,!1)})))}redirectToVerificationRoute(e,t,i,r){const{verificationType:a,organizationIds:o,verificationCategory:s}=e,l=h.VERIFICATION_CATEGORY_TO_START_ROUTES_MAP[s]
+if(!l)throw Error(`No verification route for verification category: ${s}`)
+const c={platform:t,entryPoint:i,referrer:r?"verify_hub":"verify_hub_redirect"}
+if(o&&o.length>0){c.organizations=`[${o.toString()}]`
+c.organization=o[0]}let u
+u=s===h.VERIFICATION_CATEGORY.GOVERNMENT_ID?this.router.transitionTo(l,h.VERIFICATION_TYPE[a],{queryParams:c}):this.router.transitionTo(l,{queryParams:c})
+return u.then((()=>{(0,n.isDestroying)(this)||(0,_.notifyNativeClient)({verificationType:a})}))}refreshRoute(){this.refresh()}},A=(0,a.default)(S.prototype,"lix",[y],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),R=(0,a.default)(S.prototype,"graphql",[T],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),O=(0,a.default)(S.prototype,"navInteraction",[g],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),N=(0,a.default)(S.prototype,"router",[I],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),C=(0,a.default)(S.prototype,"windowService",[E],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),(0,a.default)(S.prototype,"redirectToVerificationRoute",[s.action],Object.getOwnPropertyDescriptor(S.prototype,"redirectToVerificationRoute"),S.prototype),(0,a.default)(S.prototype,"refreshRoute",[s.action],Object.getOwnPropertyDescriptor(S.prototype,"refreshRoute"),S.prototype),S)
+e.default=D
+function P(e,t){return e.find((e=>e.verificationType===t.toUpperCase()))}function w(e){return(0,r.default)(this,k,P).call(this,e,h.VERIFICATION_TYPE.CLEAR)}}))
+define("trust-verifications/routes/work-email",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/destroyable","@linkedin/ember-restli-graphql","@ember/service","trust-verifications/routes/base","trust/utils/verifications/extract-company-info","graphql-queries/queries/trust/verifying-member-with-company-by-urn.graphql","graphql-queries/queries/trust/verifying-member-with-company-by-urns.graphql","trust/utils/company-urn","trust/utils/verifications/constants","employee-verification/utils/constants","trust-verifications/utils/lix","restli-utils"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p,m,h,v){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var _,b,y,T,g,I,E
+let S=(_=(0,s.inject)("lix"),b=(0,s.inject)("@linkedin/ember-restli-graphql@graphql"),y=(0,s.inject)("global-nav-shared@nav-interaction"),T=class extends l.default{constructor(){super(...arguments);(0,t.default)(this,"lix",g,this);(0,t.default)(this,"graphql",I,this);(0,t.default)(this,"navInteraction",E,this)}get pathName(){return"/verifications/employment/work-email/"}get isNewWorkEmailFlow(){return this.lix.getTreatmentIsEnabled(h.LIX_KEY_TRUST_VERIFICATIONS_VIA_WORK_EMAIL_V2)}get isMultipleWorkEmailVerificationEnabled(){return this.lix.getTreatmentIsEnabled(h.LIX_KEY_TRUST_VERIFICATIONS_VIA_MULTIPLE_WORK_EMAIL)}activate(){super.activate(...arguments)
+this.isMobile||this.navInteraction.takeOver(!1)}model(){if((0,o.isDestroying)(this))return
+const e=this.controllerFor(this.routeName)
+e.verificationStatus=p.VERIFICATION_STATUS_MAP.INCOMPLETE
+e.employeeVerificationState={isOpen:!1,isVerificationComplete:!1,step:m.STEP_EMAIL_INPUT}
+const t={adapterOptions:{degradations:[p.TRUST_VERIFICATIONS_DEGRADATION_METADATA.GET_COMPANY_BY_ID],degradedEntityIDsToRemove:[]}}
+let i
+if(this.isMultipleWorkEmailVerificationEnabled){const e=this.paramsFor(this.routeName).organizations||"[]",r=(0,f.getDashCompanyUrnsFromIds)(e)
+if(0===r.length)return this.transitionToExternal("feed.index")
+i=this.graphql.executeQuery(d.default,{companyUrns:r},t).then((e=>{var t
+if((0,o.isDestroying)(this))return
+const i=(null===(t=e.data)||void 0===t?void 0:t.organizationDashCompaniesByIds).map((e=>(0,c.default)(e)))
+return{...1===i.length?i[0]:{companyInfoList:i},isNewWorkEmailFlow:this.isNewWorkEmailFlow}}))}else{const e=this.paramsFor(this.routeName).organization||"",r=(0,f.getDashCompanyUrnFromId)(e)
+if(!r)return this.transitionToExternal("feed.index")
+i=this.graphql.executeQuery(u.default,{companyUrn:r},t).then((e=>{var t
+if((0,o.isDestroying)(this))return
+const i=null===(t=e.data)||void 0===t?void 0:t.organizationDashCompaniesById
+return{...(0,c.default)(i),isNewWorkEmailFlow:this.isNewWorkEmailFlow}}))}return i.catch((e=>{if((0,o.isDestroying)(this))throw e
+if(!e||!(e instanceof n.GraphQLQueryError||e.isAdapterError))throw e
+{var t,i
+const r=null===(t=e.errors)||void 0===t?void 0:t[0];(r&&(null===(i=r.extensions)||void 0===i?void 0:i.status))>=v.httpStatus.S_500_INTERNAL_SERVER_ERROR?this.controllerFor("work-email").verificationStatus=p.VERIFICATION_STATUS_MAP.FAILED:this.transitionToExternal("feed.index")}}))}},g=(0,r.default)(T.prototype,"lix",[_],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),I=(0,r.default)(T.prototype,"graphql",[b],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),E=(0,r.default)(T.prototype,"navInteraction",[y],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),T)
+e.default=S}))
+define.alias("@embroider/util/services/ensure-registered","trust-verifications/services/-ensure-registered")
+define.alias("artdeco-hoverables/services/artdeco-hoverable","trust-verifications/services/artdeco-hoverable")
+define.alias("artdeco-modal/services/artdeco-modal","trust-verifications/services/artdeco-modal")
+define.alias("artdeco-toast/services/artdeco-toast","trust-verifications/services/artdeco-toast")
+define.alias("client-sensor-web/services/client-sensor","trust-verifications/services/client-sensor")
+define.alias("ember-date-service/services/date","trust-verifications/services/date")
+define.alias("@linkedin/ember-restli-graphql/services/graphql","trust-verifications/services/graphql")
+define.alias("@linkedin/ember-pem/services/internal-event-utils","trust-verifications/services/internal-event-utils")
+define.alias("@linkedin/ember-pem/services/internal-pem-tracking","trust-verifications/services/internal-pem-tracking")
+define.alias("ember-cli-pemberly-lix/services/lix","trust-verifications/services/lix")
+define.alias("ember-m3/services/m3-schema-manager","trust-verifications/services/m3-schema-manager")
+define.alias("@linkedin/ember-pem/services/pem-response-metadata","trust-verifications/services/pem-response-metadata")
+define.alias("@linkedin/ember-pem/services/pem-tracking","trust-verifications/services/pem-tracking")
+define.alias("persistent-toast-manager/services/persistent-toast-manager","trust-verifications/services/persistent-toast-manager")
+define.alias("ember-cli-pemberly-m3/services/store","trust-verifications/services/store")
+define.alias("@linkedin/ember-pem/services/tracer","trust-verifications/services/tracer")
+define("trust-verifications/services/verification-navigation",["exports","@babel/runtime/helpers/esm/initializerDefineProperty","@babel/runtime/helpers/esm/defineProperty","@babel/runtime/helpers/esm/classPrivateMethodGet","@babel/runtime/helpers/esm/applyDecoratedDescriptor","@babel/runtime/helpers/esm/initializerWarningHelper","@ember/service","@ember/destroyable","global-utils/utils/url","trust/utils/web-view","trust-verifications/utils/constants","trust-verifications/utils/lix","trust/utils/constants","@ember/debug"],(function(e,t,i,r,a,o,n,s,l,c,u,d,f,p){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var m,h,v,_,b,y,T,g,I,E,S,A,R
+let O=(m=(0,n.inject)("router"),h=(0,n.inject)("profile-services@profile"),v=(0,n.inject)("lix"),_=(0,n.inject)("authentication@authenticated-user"),b=(0,n.inject)("trust@trust-session-storage"),y=(A=new WeakSet,R=new WeakSet,class extends n.default{constructor(){super(...arguments)
+R.add(this)
+A.add(this);(0,t.default)(this,"router",T,this);(0,t.default)(this,"profile",g,this);(0,t.default)(this,"lix",I,this);(0,t.default)(this,"authenticatedUser",E,this);(0,t.default)(this,"sessionStorage",S,this)}viewProfile(e){var t,i,a,o
+const n=null===(t=this.router.currentRoute)||void 0===t||null===(i=t.queryParams)||void 0===i?void 0:i.entryPoint,s=Object.values(u.PROFILE_ENTRY_POINTS),d=n&&s.includes(n),f=null===(a=this.authenticatedUser)||void 0===a||null===(o=a.miniProfile)||void 0===o?void 0:o.publicIdentifier
+if((0,r.default)(this,A,N).call(this)&&d&&this.profile.isSelfView)(0,c.notifyNativeClient)({closeWebView:""})||(0,r.default)(this,R,C).call(this,f,e)
+else{const t=l.default.getDomainUrl();(0,c.notifyNativeClient)({verificationResultDeeplink:`${t}/in/${f}`})||(0,r.default)(this,R,C).call(this,f,e)}}transitionFromVerificationFlow(){var e,t
+const i=null===(e=this.router.currentRoute)||void 0===e||null===(t=e.queryParams)||void 0===t?void 0:t.entryPoint
+if(f.TRUST_SESSION_STORAGE_KEY[i]){const e=this.sessionStorage.getValue(f.TRUST_SESSION_STORAGE_KEY[i])
+if(e){this.sessionStorage.removeKey(f.TRUST_SESSION_STORAGE_KEY[i])
+const t=JSON.parse(e)
+this.router.transitionTo(...t)}else(0,c.notifyNativeClient)({closeWebView:""})||this.viewProfile()}else this.viewProfile()}}),T=(0,a.default)(y.prototype,"router",[m],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),g=(0,a.default)(y.prototype,"profile",[h],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),I=(0,a.default)(y.prototype,"lix",[v],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),E=(0,a.default)(y.prototype,"authenticatedUser",[_],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),S=(0,a.default)(y.prototype,"sessionStorage",[b],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),y)
+e.default=O
+function N(){return this.lix.getTreatmentIsEnabled(d.LIX_KEY_TRUST_VERIFICATIONS_VIEW_YOUR_PROFILE_DEEPLINK)}function C(e,t){t&&t(!0)
+this.router.transitionTo("profile.common.profile",e).then((()=>{(0,s.isDestroying)(this)||t&&t(!1)}))}}))
+define("trust-verifications/templates/application",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"uZ+nhP+E",block:'[[[11,0],[24,0,"trust-verifications"],[4,[38,0],null,null],[12],[1,"\\n  "],[46,[28,[37,2],null,null],null,null,null],[1,"\\n"],[13]],[],false,["trust@on-verification-link-click","component","-outlet"]]',moduleName:"trust-verifications/templates/application.hbs",isStrictMode:!1})
+e.default=i}))
+define.alias("artdeco-datepicker/templates/components/artdeco-calendar","trust-verifications/templates/components/artdeco-calendar")
+define.alias("artdeco-datepicker/templates/components/artdeco-datepicker-embedded-cal","trust-verifications/templates/components/artdeco-datepicker-embedded-cal")
+define.alias("artdeco-datepicker/templates/components/artdeco-datepicker","trust-verifications/templates/components/artdeco-datepicker")
+define.alias("artdeco-datepicker/templates/components/artdeco-daterange-embedded-cal","trust-verifications/templates/components/artdeco-daterange-embedded-cal")
+define.alias("artdeco-datepicker/templates/components/artdeco-daterange","trust-verifications/templates/components/artdeco-daterange")
+define("trust-verifications/templates/identity-result",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"+FERWSJv",block:'[[[41,[30,1,["isPending"]],[[[1,"  "],[8,[39,1],null,null,null],[1,"\\n"]],[]],[[[41,[30,1,["isRejected"]],[[[1,"  "],[8,[39,2],null,[["@size","@onButtonClick"],[3,[30,0,["restartVerification"]]]],null],[1,"\\n"]],[]],[[[41,[30,1,["isResolved"]],[[[1,"  "],[8,[39,3],null,[["@onPrimaryButtonClick","@onSecondaryButtonClick","@onTertiaryButtonClick","@verificationType","@verificationStatus"],[[30,0,["onPrimaryButtonClick"]],[30,0,["onSecondaryButtonClick"]],[30,0,["onTertiaryButtonClick"]],[30,1,["value","verificationType"]],[30,1,["value","verificationStatus"]]]],null],[1,"\\n"]],[]],null]],[]]]],[]]]],["@model"],false,["if","trust@verifications/common/shimmer-loader","trust@verifications/common/error-message","trust@verifications/result"]]',moduleName:"trust-verifications/templates/identity-result.hbs",isStrictMode:!1})
+e.default=i}))
+define("trust-verifications/templates/identity-start",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"iNywqu9L",block:'[[[10,"section"],[15,0,[52,[51,[30,0,["isMobile"]]],"trust-verifications-desktop__card"]],[12],[1,"\\n"],[41,[28,[37,2],[[30,0,["shouldShowShimmer"]],[30,1,["isPending"]]],null],[[[1,"    "],[8,[39,3],null,null,null],[1,"\\n"]],[]],[[[41,[28,[37,2],[[30,1,["isRejected"]],[30,0,["accountMismatch"]]],null],[[[1,"    "],[8,[39,4],null,[["@size","@onButtonClick","@errorMessageType"],[[52,[30,0,["isMobile"]],3,2],[52,[30,0,["accountMismatch"]],[30,0,["onTertiaryButtonClick"]],[30,0,["restartVerification"]]],[52,[30,0,["accountMismatch"]],"account_mismatch_error"]]],null],[1,"\\n"]],[]],[[[41,[30,1,["isResolved"]],[[[41,[30,0,["isMobile"]],[[[1,"      "],[8,[39,5],null,[["@onPrimaryButtonClick","@onTertiaryButtonClick","@verificationType","@primaryButtonControlName"],[[30,0,["onPrimaryButtonClick"]],[30,0,["onTertiaryButtonClick"]],[30,1,["value","verificationType"]],[30,1,["value","controlName"]]]],null],[1,"\\n"]],[]],[[[1,"      "],[8,[39,6],null,[["@headerLinkRouteName","@headerLinkModel","@headerLinkQueryParam","@hasExternalBackButtonLink","@qrcodeImageData","@verificationType"],[[30,0,["headerLinkRouteName"]],[30,0,["headerLinkModel"]],[30,0,["headerLinkQueryParam"]],[30,0,["hasExternalBackButtonLink"]],[30,1,["value","qrCodeImageData"]],[30,1,["value","verificationType"]]]],null],[1,"\\n"]],[]]],[1,"  "]],[]],null]],[]]]],[]]],[13]],["@model"],false,["unless","if","global-helpers@or","trust@verifications/common/shimmer-loader","trust@verifications/common/error-message","trust@verifications/identity-start","trust@verifications/verify-via-qrcode"]]',moduleName:"trust-verifications/templates/identity-start.hbs",isStrictMode:!1})
+e.default=i}))
+define("trust-verifications/templates/learning",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"XBIg3YF9",block:'[[[41,[28,[37,1],[[30,0,["verificationStatus"]],[30,0,["verificationStatusObject","LOADING"]]],null],[[[1,"  "],[8,[39,2],null,null,null],[1,"\\n"]],[]],[[[41,[28,[37,1],[[30,0,["verificationStatus"]],[30,0,["verificationStatusObject","STARTED"]]],null],[[[1,"  "],[8,[39,3],null,[["@isMobile","@verificationType","@companyLogo","@companyName","@categoryKey","@onPrimaryButtonClick"],[[30,0,["isMobile"]],[30,0,["verificationType"]],[30,0,["model","companyLogo"]],[30,0,["model","companyName"]],[30,0,["model","categoryKey"]],[30,0,["onAddToProfileClick"]]]],null],[1,"\\n"]],[]],[[[41,[28,[37,1],[[30,0,["verificationStatus"]],[30,0,["verificationStatusObject","SUCCEEDED"]]],null],[[[1,"  "],[8,[39,4],null,[["@onPrimaryButtonClick","@verificationType","@verificationStatus","@categoryKey"],[[30,0,["onViewYourProfileButtonClick"]],[30,0,["verificationType"]],[30,0,["verificationStatus"]],[30,0,["model","categoryKey"]]]],null],[1,"\\n"]],[]],[[[1,"  "],[8,[39,5],null,[["@size","@onButtonClick"],[3,[30,0,["restartVerification"]]]],null],[1,"\\n"]],[]]]],[]]]],[]]]],[],false,["if","global-helpers@eq","trust@verifications/common/shimmer-loader","trust@verifications/learning-opt-in","trust@verifications/result","trust@verifications/common/error-message"]]',moduleName:"trust-verifications/templates/learning.hbs",isStrictMode:!1})
+e.default=i}))
+define("trust-verifications/templates/microsoft-entra",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"VfC9JYO4",block:'[[[10,"section"],[15,0,[52,[51,[30,0,["isMobile"]]],"trust-verifications-desktop__card"]],[12],[1,"\\n"],[41,[28,[37,2],[[30,0,["verificationStatus"]],"LOADING"],null],[[[1,"    "],[8,[39,3],null,null,null],[1,"\\n"]],[]],[[[41,[28,[37,4],[[28,[37,2],[[30,0,["verificationStatus"]],"DOWNSTREAM_FAILED"],null],[28,[37,2],[[30,0,["verificationStatus"]],"ACCOUNT_MISMATCH"],null]],null],[[[1,"    "],[8,[39,5],null,[["@size","@onButtonClick","@errorMessageType"],[[52,[30,0,["isMobile"]],3,2],[52,[28,[37,2],[[30,0,["verificationStatus"]],"ACCOUNT_MISMATCH"],null],[30,0,["onCloseButtonClick"]],[30,0,["restartVerification"]]],[52,[28,[37,2],[[30,0,["verificationStatus"]],"ACCOUNT_MISMATCH"],null],"account_mismatch_error"]]],null],[1,"\\n"]],[]],[[[41,[30,0,["isMobile"]],[[[41,[28,[37,2],[[30,0,["verificationStatus"]],"STARTED"],null],[[[1,"        "],[8,[39,6],null,[["@onPrimaryButtonClick","@onTertiaryButtonClick","@companyLogo","@companyName","@isVerificationForLinkedIn"],[[30,0,["onStartButtonClick"]],[30,0,["onCloseButtonClick"]],[30,0,["model","companyLogo"]],[30,0,["model","companyName"]],[30,0,["model","isVerificationForLinkedIn"]]]],null],[1,"\\n"]],[]],[[[41,[28,[37,2],[[30,0,["verificationStatus"]],"CONSENT_NEEDED"],null],[[[1,"        "],[8,[39,7],null,[["@companyLogo","@companyName","@isVerificationForLinkedIn","@onPrimaryButtonClick","@onTertiaryButtonClick"],[[30,0,["model","companyLogo"]],[30,0,["model","companyName"]],[30,0,["model","isVerificationForLinkedIn"]],[30,0,["onSubmitButtonClick"]],[30,0,["onCloseButtonClick"]]]],null],[1,"\\n"]],[]],[[[1,"        "],[8,[39,8],null,[["@onPrimaryButtonClick","@onTertiaryButtonClick","@verificationType","@verificationStatus","@companyName","@companyLogo"],[[30,0,["onViewYourProfileButtonClick"]],[30,0,["onCloseButtonClick"]],"microsoft-entra",[30,0,["verificationStatus"]],[30,0,["model","companyName"]],[30,0,["model","companyLogo"]]]],null],[1,"\\n      "]],[]]]],[]]]],[]],[[[1,"      "],[8,[39,9],null,[["@headerLinkRouteName","@headerLinkModel","@headerLinkQueryParam","@hasExternalBackButtonLink","@qrcodeImageData","@verificationType"],[[30,0,["headerLinkRouteName"]],[30,0,["headerLinkModel"]],[30,0,["headerLinkQueryParam"]],[30,0,["hasExternalBackButtonLink"]],[30,0,["model","qrCodeImageData"]],"microsoft-entra"]],null],[1,"\\n"]],[]]],[1,"  "]],[]]]],[]]],[13]],[],false,["unless","if","global-helpers@eq","trust@verifications/common/shimmer-loader","global-helpers@or","trust@verifications/common/error-message","trust@verifications/microsoft-entra-start","trust@verifications/microsoft-entra-consent","trust@verifications/result","trust@verifications/verify-via-qrcode"]]',moduleName:"trust-verifications/templates/microsoft-entra.hbs",isStrictMode:!1})
+e.default=i}))
+define("trust-verifications/templates/verifications-hub",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"QldVEiAX",block:'[[[10,"section"],[15,0,[52,[51,[30,0,["isMobile"]]],"trust-verifications-desktop__card"]],[12],[1,"\\n"],[41,[28,[37,2],[[30,0,["shouldShowShimmer"]],[30,1,["isPending"]]],null],[[[1,"    "],[8,[39,3],null,null,null],[1,"\\n"]],[]],[[[41,[30,1,["isResolved"]],[[[1,"    "],[8,[39,4],null,[["@isMobile","@unVerifiedEligibleData","@verifiedData","@profile","@onEligibleVerificationClick","@verificationEntryPoint","@onProfileCardClick"],[[30,0,["isMobile"]],[30,1,["value","unVerifiedEligibleData"]],[30,1,["value","verifiedData"]],[30,1,["value","profile"]],[30,0,["onEligibleVerificationClick"]],[30,1,["value","verificationEntryPoint"]],[30,0,["onProfileCardClick"]]]],null],[1,"\\n"]],[]],[[[41,[30,1,["isRejected"]],[[[1,"    "],[8,[39,5],null,[["@size","@onButtonClick"],[[52,[30,0,["isMobile"]],3,2],[30,0,["restart"]]]],null],[1,"\\n  "]],[]],null]],[]]]],[]]],[13]],["@model"],false,["unless","if","global-helpers@or","trust@verifications/common/shimmer-loader","trust@verifications/hub","trust@verifications/common/error-message"]]',moduleName:"trust-verifications/templates/verifications-hub.hbs",isStrictMode:!1})
+e.default=i}))
+define("trust-verifications/templates/work-email",["exports","@ember/template-factory"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.default=void 0
+var i=(0,t.createTemplateFactory)({id:"Zg7Y5hIF",block:'[[[10,"section"],[15,0,[52,[51,[30,0,["isMobile"]]],"trust-verifications-desktop__card"]],[12],[1,"\\n"],[41,[30,0,["shouldShowNavHeader"]],[[[1,"    "],[8,[39,2],null,[["@headerLinkRouteName","@headerLinkModel","@headerLinkQueryParam","@hasExternalBackButtonLink"],[[30,0,["headerLinkRouteName"]],[30,0,["headerLinkModel"]],[30,0,["headerLinkQueryParam"]],[30,0,["hasExternalBackButtonLink"]]]],null],[1,"\\n"]],[]],null],[1,"\\n"],[41,[28,[37,3],[[30,0,["verificationStatus"]],[30,0,["verificationStatusMap","INCOMPLETE"]]],null],[[[1,"    "],[8,[39,4],null,[["@companyName","@companyLogo","@flowUseCase","@normalizedCompanyUrn","@employeeVerificationState","@onUpdateState","@onHandleError","@isMobile","@isNewWorkEmailFlow","@companyInfoList"],[[30,0,["model","companyName"]],[30,0,["model","companyLogo"]],"EMPLOYEE_VERIFICATION",[30,0,["model","companyUrn"]],[30,0,["employeeVerificationState"]],[30,0,["onUpdateState"]],[30,0,["onHandleError"]],[30,0,["isMobile"]],[30,0,["model","isNewWorkEmailFlow"]],[30,0,["model","companyInfoList"]]]],[["default"],[[[[1,"\\n      "],[10,"form"],[14,"novalidate",""],[15,0,[52,[30,0,["isMobile"]],"trust-verifications__mobile-container"]],[12],[1,"\\n        "],[8,[30,1,["employee-verification-body"]],[[16,0,[52,[30,0,["isMobile"]],"trust-verifications__mobile-body"]]],null,null],[1,"\\n        "],[8,[30,1,["employee-verification-footer"]],[[16,0,[52,[51,[30,0,["isMobile"]]],"trust-verifications-desktop__card-footer"]]],[["@footerButtonStretch","@footerButtonSize"],[[52,[30,0,["isMobile"]],"full","none"],[52,[30,0,["isMobile"]],"4","2"]]],null],[1,"\\n      "],[13],[1,"\\n    "]],[1]]]]],[1,"\\n"]],[]],null],[1,"\\n"],[41,[28,[37,3],[[30,0,["verificationStatus"]],[30,0,["verificationStatusMap","SUCCESS"]]],null],[[[1,"    "],[8,[39,5],[[4,[38,7],null,[["pageKey","routeName","currentRoute"],["flagship3_trust_verifications_work_email_success_result",[28,[37,8],[[53,"outletState"],"render.name"],null],[28,[37,8],[[53,"outletState"],"render"],null]]]]],[["@isInModal","@onPrimaryButtonClick","@verificationType","@verificationStatus"],[[28,[37,6],[[30,0,["isMobile"]]],null],[30,0,["onPrimaryButtonClick"]],"work-email","SUCCEEDED"]],null],[1,"\\n"]],[]],null],[1,"\\n"],[41,[28,[37,3],[[30,0,["verificationStatus"]],[30,0,["verificationStatusMap","FAILED"]]],null],[[[1,"    "],[10,0],[14,0,"trust-verifications-verify-error-container"],[12],[1,"\\n      "],[8,[39,10],[[4,[38,7],null,[["pageKey","routeName","currentRoute"],["flagship3_trust_verifications_work_email_error_result",[28,[37,8],[[53,"outletState"],"render.name"],null],[28,[37,8],[[53,"outletState"],"render"],null]]]]],[["@actionText","@headline","@illustration","@message","@size","@onButtonClick"],[[28,[37,11],["i18n_error_view_button_text","trust-verifications/templates/work-email"],null],[28,[37,11],["i18n_error_view_headline","trust-verifications/templates/work-email"],null],"error-server",[28,[37,11],["i18n_error_view_description","trust-verifications/templates/work-email"],null],[52,[30,0,["isMobile"]],3,2],[30,0,["restartVerification"]]]],null],[1,"\\n    "],[13],[1,"\\n"]],[]],null],[13]],["modal"],false,["unless","if","trust@verifications/common/nav-header","global-helpers@eq","employee-verification@employee-verification-modal","trust@verifications/result","global-helpers@not","ember-cli-pemberly-tracking@track-render","get","-get-dynamic-var","artdeco-empty-state@artdeco-empty-state","t"]]',moduleName:"trust-verifications/templates/work-email.hbs",isStrictMode:!1})
+e.default=i}))
+define.alias("ember-async-data/tracked-async-data","trust-verifications/tracked-async-data")
+define("trust-verifications/utils/constants",["exports"],(function(e){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.PROFILE_ENTRY_POINTS=e.MOBILE=e.IOS=e.DESKTOP=e.CLEAR_URL_METADATA=e.CLEAR_CANCEL_WEBVIEW_DEBUG=e.ANDROID=e.ANCHOR_PAGE_KEY_MAP=e.ACTIONS_OF_SEND_TRUST_VERIFICATIONS_MESSAGE=void 0
+const t=Object.freeze({REDIRECT_URL_FOR_IOS:"linkedin%3A%2F%2Fauth",CLIENT_ID:"df7c2fd4-8b93-11ed-a1eb-0242ac120002",CLEAR_VERIFICATION_HOST_URL:"https://verify.partner.platform.clearme.com/",SCOPE:"email+given_name+family_name+phone+birthdate",STATE:"test-state-value"})
+e.CLEAR_URL_METADATA=t
+const i=Object.freeze({"/verifications/identity/aadhaar/start/":{IOS:"flagship3_trust_verifications_ios_aadhaar_start",ANDROID:"flagship3_trust_verifications_android_aadhaar_start",DEFAULT:"flagship3_trust_verifications_default_aadhaar_start"},"/verifications/identity/aadhaar/result/":{IOS:"flagship3_trust_verifications_ios_aadhaar_result",ANDROID:"flagship3_trust_verifications_android_aadhaar_result",DEFAULT:"flagship3_trust_verifications_default_aadhaar_result"},"/verifications/identity/clear/start/":{IOS:"flagship3_trust_verifications_ios_clear_start",ANDROID:"flagship3_trust_verifications_android_clear_start",DEFAULT:"flagship3_trust_verifications_default_clear_start",V2:{IOS:"flagship3_trust_verifications_ios_clear_start_v2",ANDROID:"flagship3_trust_verifications_android_clear_start_v2",DEFAULT:"flagship3_trust_verifications_default_clear_start_v2"}},"/verifications/identity/clear/result/":{IOS:"flagship3_trust_verifications_ios_clear_result",ANDROID:"flagship3_trust_verifications_android_clear_result",DEFAULT:"flagship3_trust_verifications_default_clear_result",V2:{IOS:"flagship3_trust_verifications_ios_clear_result_v2",ANDROID:"flagship3_trust_verifications_android_clear_result_v2",DEFAULT:"flagship3_trust_verifications_default_clear_result_v2"}},"/verifications/employment/microsoft-entra/":{IOS:"flagship3_trust_verifications_ios_microsoft_entra",ANDROID:"flagship3_trust_verifications_android_microsoft_entra",DEFAULT:"flagship3_trust_verifications_default_microsoft_entra"},"/verifications/employment/work-email/":{IOS:"flagship3_trust_verifications_ios_work_email",ANDROID:"flagship3_trust_verifications_android_work_email",DEFAULT:"flagship3_trust_verifications_default_work_email",V2:{IOS:"flagship3_trust_verifications_ios_work_email_v2",ANDROID:"flagship3_trust_verifications_android_work_email_v2",DEFAULT:"flagship3_trust_verifications_default_work_email_v2"},MEV:{IOS:"flagship3_trust_verifications_ios_work_email_mev",ANDROID:"flagship3_trust_verifications_android_work_email_mev",DEFAULT:"flagship3_trust_verifications_default_work_email_mev"}}})
+e.ANCHOR_PAGE_KEY_MAP=i
+const r=Object.freeze({COMPLETE_VENDOR_FLOW:"COMPLETE_VENDOR_FLOW",CANCEL_VENDOR_FLOW:"CANCEL_VENDOR_FLOW",COMPLETE_LOGIN:"COMPLETE_LOGIN",GENERIC_ERROR:"GENERIC_ERROR",VERIFICATION_ERROR:"VERIFICATION_ERROR",REFRESH:"REFRESH",THIRD_PARTY_SDK_LOG:"THIRD_PARTY_SDK_LOG"})
+e.ACTIONS_OF_SEND_TRUST_VERIFICATIONS_MESSAGE=r
+e.IOS="IOS"
+e.ANDROID="ANDROID"
+e.DESKTOP="DESKTOP"
+e.MOBILE="MOBILE"
+e.CLEAR_CANCEL_WEBVIEW_DEBUG="flagship3_trust_verifications_clear_cancel_webview_debug"
+const a=Object.freeze({ABOUT_THIS_PROFILE:"about_this_profile",SUGGESTED_FOR_YOU:"suggested_for_you",SUGGESTED_FOR_YOUR_CARD:"suggested_for_your_card"})
+e.PROFILE_ENTRY_POINTS=a}))
+define.alias("client-sensor-web/utils/helpers","trust-verifications/utils/helpers")
+define("trust-verifications/utils/lix",["exports"],(function(e){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+e.LIX_KEY_TRUST_VERIFICATIONS_VIEW_YOUR_PROFILE_DEEPLINK=e.LIX_KEY_TRUST_VERIFICATIONS_VIA_WORK_EMAIL_V2=e.LIX_KEY_TRUST_VERIFICATIONS_VIA_MULTIPLE_WORK_EMAIL=e.LIX_KEY_TRUST_VERIFICATIONS_VIA_MICROSOFT_ENTRA=e.LIX_KEY_TRUST_VERIFICATIONS_VIA_LEARNING=e.LIX_KEY_TRUST_VERIFICATIONS_VIA_AADHAAR=e.LIX_KEY_TRUST_VERIFICATIONS_QRCODE=e.LIX_KEY_TRUST_VERIFICATIONS_HUB=e.LIX_KEY_TRUST_VERIFICATIONS_ENFORCE_CLIENT_ONLY_CALL_AADHAAR_START=e.LIX_KEY_TRUST_VERIFICATIONS_CAMPAIGN_LINK=void 0
+e.LIX_KEY_TRUST_VERIFICATIONS_CAMPAIGN_LINK="voyager.web.trust-verifications-campaign-link"
+e.LIX_KEY_TRUST_VERIFICATIONS_ENFORCE_CLIENT_ONLY_CALL_AADHAAR_START="voyager.web.trust-verifications-enforce-client-only-call-aadhaar-start"
+e.LIX_KEY_TRUST_VERIFICATIONS_HUB="voyager.web.trust-verifications-hub"
+e.LIX_KEY_TRUST_VERIFICATIONS_QRCODE="voyager.web.trust-verifications-qrcode"
+e.LIX_KEY_TRUST_VERIFICATIONS_VIA_AADHAAR="voyager.web.trust-verifications-via-aadhaar"
+e.LIX_KEY_TRUST_VERIFICATIONS_VIA_MICROSOFT_ENTRA="voyager.web.trust-verifications-via-microsoft-entra"
+e.LIX_KEY_TRUST_VERIFICATIONS_VIA_MULTIPLE_WORK_EMAIL="voyager.web.trust-verifications-via-multiple-work-email"
+e.LIX_KEY_TRUST_VERIFICATIONS_VIA_WORK_EMAIL_V2="voyager.web.trust-verifications-via-work-email-v2"
+e.LIX_KEY_TRUST_VERIFICATIONS_VIA_LEARNING="voyager.web.trust-verifications-via-learning"
+e.LIX_KEY_TRUST_VERIFICATIONS_VIEW_YOUR_PROFILE_DEEPLINK="voyager.web.trust-verifications-view-your-profile-deeplink"}))
+define("trust-verifications/utils/uuid-generator",["exports","ember-uuid/utils/uuid-generator"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0})
+Object.defineProperty(e,"default",{enumerable:!0,get:function(){return t.default}})
+Object.defineProperty(e,"parse",{enumerable:!0,get:function(){return t.parse}})
+Object.defineProperty(e,"unparse",{enumerable:!0,get:function(){return t.unparse}})
+Object.defineProperty(e,"v1",{enumerable:!0,get:function(){return t.v1}})
+Object.defineProperty(e,"v4",{enumerable:!0,get:function(){return t.v4}})}))
+define.alias("ember-vector-images/utils/vector-url","trust-verifications/utils/vector-url")
+
+//# sourceMappingURL=engine.map
